@@ -1,0 +1,201 @@
+product_id,category,price,brand,discount,rating
+0,Groceries,748.0,"Patla, Swamy and Borde",20,4.4
+1,Wellness,1420.0,Om PLC,30,3.5
+2,Beauty,1420.0,"Raj, Sachdev and Nair",30,3.8
+3,Apparel,1849.0,"Kanda, Oommen and Chandran",0,3.3
+4,Apparel,1455.0,Bhalla-Apte,20,4.9
+5,Electronics,28600.0,"Kaul, Kaul and Ramaswamy",10,3.8
+6,Electronics,9361.0,Jhaveri-Goel,30,4.1
+7,Electronics,53037.0,Dara Inc,0,3.2
+8,Wellness,418.0,Prasad-Yohannan,0,4.3
+9,Beauty,418.0,Bandi LLC,10,3.5
+10,Groceries,1007.0,Bal-Wadhwa,10,3.3
+11,Apparel,158.0,"Deshpande, Kothari and Naidu",0,4.3
+12,Groceries,1869.0,Kale Inc,30,3.9
+13,Wellness,657.0,"Peri, Kapur and Dara",30,3.3
+14,Wellness,462.0,Mammen Inc,30,4.3
+15,Wellness,990.0,Bassi-Nagar,20,4.8
+16,Beauty,990.0,Oommen-Prakash,10,4.6
+17,Beauty,990.0,Parekh-Nayar,20,3.8
+18,Apparel,721.0,"Bawa, Tripathi and Sheth",0,3.0
+19,Apparel,804.0,Jaggi-Swaminathan,20,3.9
+20,Electronics,65478.0,"Bhatia, Nagarajan and Hayer",30,3.6
+21,Beauty,65478.0,"Kannan, Grover and Naidu",10,4.6
+22,Wellness,865.0,Kade-Ahuja,10,3.8
+23,Wellness,995.0,Barad Inc,30,3.5
+24,Beauty,995.0,Gulati Ltd,10,3.5
+25,Beauty,995.0,Choudhury PLC,10,4.0
+26,Wellness,1753.0,Sodhi Ltd,20,3.6
+27,Wellness,1756.0,Verma-Kurian,20,3.8
+28,Electronics,24908.0,Wason PLC,10,3.6
+29,Beauty,24908.0,"Rastogi, Sundaram and Majumdar",30,3.5
+30,Wellness,1107.0,Chawla-Kala,10,3.6
+31,Apparel,201.0,Banerjee Ltd,0,3.4
+32,Electronics,37977.0,"Jhaveri, Nagar and Kuruvilla",20,3.3
+33,Beauty,37977.0,"Salvi, Pingle and Lall",10,3.2
+34,Electronics,65694.0,Barman Group,10,3.7
+35,Groceries,1709.0,"Memon, Tata and Mukhopadhyay",30,5.0
+36,Beauty,1709.0,"Ben, Devi and Bava",20,3.2
+37,Apparel,214.0,Balakrishnan Ltd,20,4.6
+38,Electronics,72197.0,Nath-Memon,30,3.4
+39,Groceries,1773.0,Talwar-Baral,30,4.7
+40,Electronics,33631.0,Nagar Group,30,4.5
+41,Beauty,33631.0,"Pandit, Brar and Dube",0,3.4
+42,Electronics,69306.0,Joshi-Sant,10,3.9
+43,Groceries,761.0,"Padmanabhan, Chadha and Chakrabarti",10,4.3
+44,Electronics,73034.0,Aggarwal-Singh,0,3.5
+45,Groceries,506.0,Kalita LLC,20,4.8
+46,Apparel,331.0,"Nanda, Sampath and Cheema",10,4.3
+47,Groceries,130.0,Lad-Arora,10,4.6
+48,Wellness,345.0,"Mohanty, Sathe and Grewal",30,4.6
+49,Electronics,6504.0,Boase Inc,30,4.4
+50,Apparel,860.0,Maharaj Inc,0,3.5
+51,Beauty,860.0,Mohan-Zacharia,20,4.9
+52,Electronics,8834.0,Loke Ltd,20,4.3
+53,Wellness,1720.0,Kanda-Divan,0,3.3
+54,Apparel,748.0,Lal Inc,20,4.6
+55,Beauty,748.0,Ghosh-Mohanty,0,4.4
+56,Groceries,1583.0,"Krishnan, Balakrishnan and Balan",10,3.5
+57,Electronics,64609.0,Bera-Radhakrishnan,30,4.1
+58,Wellness,1527.0,Sane Ltd,30,3.4
+59,Apparel,1213.0,Nagar-Sandal,20,3.6
+60,Beauty,1213.0,Raj Group,10,3.1
+61,Apparel,1020.0,Palan LLC,20,4.6
+62,Wellness,851.0,"Kibe, Baral and Mani",30,3.0
+63,Wellness,876.0,"Varty, Deep and Prashad",10,4.8
+64,Wellness,1854.0,Prakash PLC,20,4.6
+65,Apparel,756.0,Ganesan PLC,0,4.3
+66,Wellness,1777.0,Sodhi Group,30,3.4
+67,Beauty,1777.0,Batra-Halder,10,4.2
+68,Groceries,939.0,Dixit Ltd,20,3.2
+69,Wellness,1449.0,Kadakia LLC,0,3.1
+70,Apparel,465.0,Deol-Bala,0,3.4
+71,Beauty,465.0,Sridhar-Setty,0,3.1
+72,Beauty,465.0,Chander Inc,30,4.1
+73,Wellness,624.0,"Pau, Pant and Bali",0,3.7
+74,Wellness,1570.0,Buch-Din,0,3.0
+75,Apparel,1442.0,Apte-Dora,30,4.9
+76,Electronics,62349.0,Chatterjee PLC,0,3.7
+77,Beauty,62349.0,Prabhu-Shah,0,4.6
+78,Groceries,1183.0,"Sagar, Dutta and Edwin",0,4.5
+79,Groceries,259.0,Naidu-Cherian,10,4.9
+80,Electronics,14267.0,Thakur-Bassi,10,4.1
+81,Apparel,495.0,"Vala, Minhas and Dara",10,4.1
+82,Apparel,1243.0,Suri Inc,30,4.5
+83,Wellness,833.0,"Grewal, Iyengar and Zacharia",30,4.4
+84,Beauty,833.0,"Sibal, Mani and Seth",10,4.6
+85,Wellness,922.0,Bawa Group,20,4.3
+86,Wellness,1328.0,Cheema-Shenoy,30,4.9
+87,Groceries,1226.0,"Naik, Shanker and Kapadia",20,4.7
+88,Beauty,1226.0,"Chaudhry, Virk and Jhaveri",30,4.7
+89,Groceries,1346.0,"Gola, Karan and Arora",10,4.1
+90,Apparel,868.0,"Bora, Mitra and Wable",20,3.7
+91,Beauty,868.0,Zacharia LLC,30,3.0
+92,Electronics,38287.0,Edwin PLC,0,4.0
+93,Groceries,113.0,"Kalla, Ramakrishnan and Shere",20,5.0
+94,Apparel,1852.0,"Raj, Walia and Khosla",20,3.0
+95,Groceries,1982.0,"Sankar, Pillai and More",10,3.2
+96,Beauty,1982.0,Ratti PLC,10,3.3
+97,Groceries,1921.0,"Goda, Gopal and Doctor",10,3.5
+98,Groceries,288.0,Bhatia-Butala,30,4.1
+99,Apparel,1603.0,"Basu, Goyal and Prasad",0,4.4
+100,Beauty,1603.0,"Date, Madan and Tata",30,4.7
+101,Wellness,1778.0,"Vig, Malhotra and Shan",0,4.2
+102,Groceries,176.0,"Kala, Pathak and Krishna",30,3.2
+103,Electronics,44829.0,Gopal Group,20,4.8
+104,Beauty,44829.0,Ganesan Ltd,0,4.7
+105,Apparel,1631.0,Parmar-Parekh,0,4.3
+106,Beauty,1631.0,Sethi Group,20,4.0
+107,Groceries,1205.0,"Chaudhuri, Merchant and Loke",10,3.7
+108,Apparel,413.0,Srivastava-Balan,0,4.3
+109,Beauty,413.0,"Kala, Uppal and Banik",0,3.4
+110,Groceries,1710.0,"Wason, Garde and Palan",30,3.3
+111,Groceries,269.0,"Thakur, Comar and Palla",30,4.1
+112,Electronics,72847.0,Vala-Wali,30,3.5
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",30,4.5
+114,Apparel,1660.0,"Das, Chana and Borah",10,4.0
+115,Apparel,1099.0,Tank Inc,30,4.3
+116,Apparel,1249.0,"Mannan, Bhavsar and Khosla",10,3.5
+117,Groceries,1690.0,Yohannan LLC,30,3.6
+118,Wellness,283.0,Goda-Kapoor,0,4.3
+119,Beauty,283.0,"Subramanian, Gour and Issac",20,3.4
+120,Groceries,1316.0,Mishra LLC,0,4.5
+121,Apparel,816.0,Khurana-Dada,30,4.2
+122,Beauty,816.0,"Gera, Chandra and Yadav",10,3.4
+123,Groceries,419.0,Badami-Sarna,0,3.2
+124,Electronics,32856.0,Anand-Ramachandran,10,4.7
+125,Groceries,128.0,Manne Group,20,4.4
+126,Electronics,40992.0,Bhat-Tara,30,3.9
+127,Groceries,528.0,Guha PLC,10,3.4
+128,Wellness,1636.0,Joshi Ltd,20,4.1
+129,Wellness,1594.0,"Kapadia, Swamy and Merchant",10,4.4
+130,Electronics,50362.0,Sen-Bal,0,3.5
+131,Electronics,38226.0,Saraf and Sons,10,4.6
+132,Wellness,655.0,"Bera, Kothari and Kapoor",0,3.9
+133,Electronics,9729.0,Pillai Inc,30,4.3
+134,Groceries,1870.0,Chahal and Sons,0,3.0
+135,Beauty,1870.0,Bains LLC,30,4.0
+136,Electronics,42347.0,Agate-Sagar,30,4.7
+137,Wellness,280.0,Rama-Rama,10,3.4
+138,Beauty,280.0,"Vasa, Dani and Yadav",0,3.1
+139,Wellness,724.0,Shroff and Sons,20,4.0
+140,Apparel,137.0,"Rege, Nadkarni and Contractor",20,4.4
+141,Groceries,1380.0,"Garg, Garde and Thaman",20,3.5
+142,Wellness,664.0,Jaggi-Khare,0,4.3
+143,Beauty,664.0,"Zachariah, Zacharia and Panchal",20,3.5
+144,Groceries,1937.0,"Kumar, Lalla and Pal",30,4.3
+145,Electronics,51096.0,"Lad, Wason and Nayak",10,3.8
+146,Wellness,412.0,"Ranganathan, Narang and Bajaj",30,4.9
+147,Wellness,774.0,Sarraf LLC,30,4.1
+148,Apparel,1436.0,Parikh Group,10,4.2
+149,Apparel,1866.0,"Suri, Bedi and Kurian",10,3.6
+150,Wellness,1962.0,Setty-Loke,10,3.9
+151,Apparel,1443.0,Chatterjee Inc,10,3.6
+152,Wellness,1191.0,Gole LLC,0,3.4
+153,Apparel,1589.0,"Morar, Ben and Babu",0,4.5
+154,Beauty,1589.0,"Bhavsar, Sha and Ram",20,3.9
+155,Groceries,411.0,Tank-Brar,10,3.2
+156,Apparel,153.0,Patla Group,20,4.2
+157,Wellness,572.0,"Sawhney, Choudhry and Barman",10,3.5
+158,Electronics,48089.0,"Dewan, Grewal and Soman",0,4.4
+159,Beauty,48089.0,Ravel LLC,30,4.4
+160,Groceries,476.0,"Bhatti, Anand and Andra",30,4.0
+161,Apparel,435.0,Merchant-Bera,10,3.5
+162,Beauty,435.0,"Sule, Murty and Palla",20,4.9
+163,Apparel,1620.0,Bhavsar and Sons,10,4.5
+164,Electronics,24209.0,Narayanan PLC,30,4.7
+165,Beauty,24209.0,"Balasubramanian, Balan and Panchal",30,4.8
+166,Beauty,24209.0,"Gill, Narayan and Sridhar",0,4.2
+167,Beauty,24209.0,Palla PLC,30,4.2
+168,Wellness,1316.0,Tara-Basak,0,4.0
+169,Beauty,1316.0,Pingle Group,0,4.8
+170,Apparel,1162.0,Kamdar-Patel,30,5.0
+171,Electronics,74098.0,Edwin-Sarkar,30,4.0
+172,Electronics,25884.0,Subramanian and Sons,20,3.9
+173,Groceries,1684.0,Kumer-Rattan,20,3.9
+174,Beauty,1684.0,Master-Roy,0,4.4
+175,Apparel,1049.0,"Dutt, Ramakrishnan and Gour",30,3.2
+176,Wellness,331.0,"Char, Kala and Bava",10,4.6
+177,Wellness,377.0,Patel Ltd,30,3.8
+178,Beauty,377.0,Chana and Sons,10,3.9
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",30,3.2
+180,Groceries,1516.0,"Ramaswamy, Menon and Sinha",10,4.4
+181,Electronics,12952.0,"Dyal, Jha and Gokhale",0,4.4
+182,Groceries,274.0,"Prabhu, Sethi and Prakash",30,4.5
+183,Wellness,1353.0,"Dâ€™Alia, Golla and Bakshi",10,3.8
+184,Beauty,1353.0,Venkatesh and Sons,10,4.8
+185,Wellness,1884.0,"Venkataraman, Bose and Mahal",10,3.3
+186,Apparel,466.0,"Varghese, Babu and Raman",0,3.8
+187,Groceries,1595.0,Sathe-Chawla,30,3.6
+188,Apparel,340.0,"Baral, Banerjee and Balakrishnan",10,4.9
+189,Electronics,34175.0,Patil Inc,0,3.9
+190,Beauty,34175.0,Parsa Group,0,4.2
+191,Beauty,34175.0,"Baral, Uppal and Gour",10,4.2
+192,Beauty,34175.0,"Morar, Raman and Ravi",30,3.9
+193,Wellness,1329.0,Venkataraman PLC,0,3.5
+194,Wellness,669.0,Kumer Group,10,3.1
+195,Apparel,212.0,Tata and Sons,20,3.1
+196,Electronics,76771.0,Palla-Sama,20,3.7
+197,Electronics,7426.0,"Contractor, Viswanathan and Sundaram",0,3.8
+198,Apparel,430.0,Sachdeva LLC,20,4.2
+199,Wellness,1272.0,Patel-Thakkar,10,4.9

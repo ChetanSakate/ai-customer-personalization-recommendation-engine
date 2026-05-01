@@ -1,0 +1,1001 @@
+product_id,category,price,brand,rating,discount,score,reason,customer_id
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,37.52,Based on your recent interest,257
+177,Wellness,377.0,Patel Ltd,3.8,30,36.160000000000004,Based on your recent interest,257
+16,Beauty,990.0,Oommen-Prakash,4.6,10,35.22,Based on your recent interest,257
+75,Apparel,1442.0,Apte-Dora,4.9,30,34.88,Based on your recent interest,257
+68,Groceries,939.0,Dixit Ltd,3.2,20,33.14,Based on your recent interest,257
+165,Beauty,24209.0,"Balasubramanian, Balan and Panchal",4.8,30,39.260000000000005,Based on your recent interest,941
+139,Wellness,724.0,Shroff and Sons,4.0,20,35.3,Based on your recent interest,941
+140,Apparel,137.0,"Rege, Nadkarni and Contractor",4.4,20,32.58,Based on your recent interest,941
+97,Groceries,1921.0,"Goda, Gopal and Doctor",3.5,10,32.2,Based on your recent interest,941
+92,Electronics,38287.0,Edwin PLC,4.0,0,31.3,Based on your recent interest,941
+23,Wellness,995.0,Barad Inc,3.5,30,51.400000000000006,Based on your recent interest,887
+100,Beauty,1603.0,"Date, Madan and Tata",4.7,30,48.040000000000006,Based on your recent interest,887
+110,Groceries,1710.0,"Wason, Garde and Palan",3.3,30,46.06,Based on your recent interest,887
+126,Electronics,40992.0,Bhat-Tara,3.9,30,42.28,Based on your recent interest,887
+37,Apparel,214.0,Balakrishnan Ltd,4.6,20,38.82,Based on your recent interest,887
+2,Beauty,1420.0,"Raj, Sachdev and Nair",3.8,30,38.56,Based on your recent interest,432
+14,Wellness,462.0,Mammen Inc,4.3,30,37.06,Based on your recent interest,432
+61,Apparel,1020.0,Palan LLC,4.6,20,36.620000000000005,Based on your recent interest,432
+180,Groceries,1516.0,"Ramaswamy, Menon and Sinha",4.4,10,36.38,Based on your recent interest,432
+136,Electronics,42347.0,Agate-Sagar,4.7,30,36.040000000000006,Based on your recent interest,432
+196,Electronics,76771.0,Palla-Sama,3.7,20,114.411,Based on your recent interest,92
+21,Beauty,65478.0,"Kannan, Grover and Naidu",4.6,10,84.798,Popular in your segment,92
+117,Groceries,1690.0,Yohannan LLC,3.6,30,30.310000000000006,Based on your recent interest,92
+11,Apparel,158.0,"Deshpande, Kothari and Naidu",4.3,0,29.418,Based on your recent interest,92
+176,Wellness,331.0,"Char, Kala and Bava",4.6,10,28.751,Based on your recent interest,92
+196,Electronics,76771.0,Palla-Sama,3.7,20,111.411,Based on your recent interest,451
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,94.34700000000001,Best deal for you,451
+160,Groceries,476.0,"Bhatti, Anand and Andra",4.0,30,26.976,Based on your recent interest,451
+64,Wellness,1854.0,Prakash PLC,4.6,20,26.274,Based on your recent interest,451
+163,Apparel,1620.0,Bhavsar and Sons,4.5,10,24.220000000000002,Based on your recent interest,451
+165,Beauty,24209.0,"Balasubramanian, Balan and Panchal",4.8,30,39.260000000000005,Based on your recent interest,373
+58,Wellness,1527.0,Sane Ltd,3.4,30,37.38,Based on your recent interest,373
+75,Apparel,1442.0,Apte-Dora,4.9,30,34.88,Based on your recent interest,373
+107,Groceries,1205.0,"Chaudhuri, Merchant and Loke",3.7,10,34.239999999999995,Based on your recent interest,373
+112,Electronics,72847.0,Vala-Wali,3.5,30,34.2,Based on your recent interest,373
+188,Apparel,340.0,"Baral, Banerjee and Balakrishnan",4.9,10,32.28,Based on your recent interest,151
+15,Wellness,990.0,Bassi-Nagar,4.8,20,32.06,Based on your recent interest,151
+154,Beauty,1589.0,"Bhavsar, Sha and Ram",3.9,20,31.480000000000004,Based on your recent interest,151
+127,Groceries,528.0,Guha PLC,3.4,10,31.18,Based on your recent interest,151
+5,Electronics,28600.0,"Kaul, Kaul and Ramaswamy",3.8,10,28.86,Based on your recent interest,151
+52,Electronics,8834.0,Loke Ltd,4.3,20,46.16,Based on your recent interest,175
+23,Wellness,995.0,Barad Inc,3.5,30,44.1,Best deal for you,175
+106,Beauty,1631.0,Sethi Group,4.0,20,42.900000000000006,Based on your recent interest,175
+45,Groceries,506.0,Kalita LLC,4.8,20,42.260000000000005,Based on your recent interest,175
+121,Apparel,816.0,Khurana-Dada,4.2,30,39.84,Best deal for you,175
+35,Groceries,1709.0,"Memon, Tata and Mukhopadhyay",5.0,30,33.900000000000006,Based on your recent interest,411
+82,Apparel,1243.0,Suri Inc,4.5,30,32.6,Based on your recent interest,411
+36,Beauty,1709.0,"Ben, Devi and Bava",3.2,20,32.14,Based on your recent interest,411
+145,Electronics,51096.0,"Lad, Wason and Nayak",3.8,10,27.660000000000004,Based on your recent interest,411
+58,Wellness,1527.0,Sane Ltd,3.4,30,24.080000000000002,Best deal for you,411
+165,Beauty,24209.0,"Balasubramanian, Balan and Panchal",4.8,30,39.260000000000005,Based on your recent interest,818
+102,Groceries,176.0,"Kala, Pathak and Krishna",3.2,30,36.14,Based on your recent interest,818
+86,Wellness,1328.0,Cheema-Shenoy,4.9,30,33.28,Based on your recent interest,818
+140,Apparel,137.0,"Rege, Nadkarni and Contractor",4.4,20,32.58,Based on your recent interest,818
+126,Electronics,40992.0,Bhat-Tara,3.9,30,31.880000000000003,Based on your recent interest,818
+196,Electronics,76771.0,Palla-Sama,3.7,20,109.111,Popular in your segment,694
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,102.34700000000001,Best deal for you,694
+19,Apparel,804.0,Jaggi-Swaminathan,3.9,20,36.684000000000005,Based on your recent interest,694
+147,Wellness,774.0,Sarraf LLC,4.1,30,33.694,Based on your recent interest,694
+10,Groceries,1007.0,Bal-Wadhwa,3.3,10,27.767000000000003,Based on your recent interest,694
+48,Wellness,345.0,"Mohanty, Sathe and Grewal",4.6,30,52.620000000000005,Based on your recent interest,912
+110,Groceries,1710.0,"Wason, Garde and Palan",3.3,30,48.760000000000005,Based on your recent interest,912
+175,Apparel,1049.0,"Dutt, Ramakrishnan and Gour",3.2,30,48.74,Based on your recent interest,912
+88,Beauty,1226.0,"Chaudhry, Virk and Jhaveri",4.7,30,44.24,Based on your recent interest,912
+136,Electronics,42347.0,Agate-Sagar,4.7,30,43.44,Based on your recent interest,912
+171,Electronics,74098.0,Edwin-Sarkar,4.0,30,101.298,Best deal for you,168
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,97.34700000000001,Best deal for you,168
+86,Wellness,1328.0,Cheema-Shenoy,4.9,30,32.608000000000004,Based on your recent interest,168
+89,Groceries,1346.0,"Gola, Karan and Arora",4.1,10,28.466,Based on your recent interest,168
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,28.447,Based on your recent interest,168
+125,Groceries,128.0,Manne Group,4.4,20,30.9,Based on your recent interest,680
+40,Electronics,33631.0,Nagar Group,4.5,30,30.75,Based on your recent interest,680
+175,Apparel,1049.0,"Dutt, Ramakrishnan and Gour",3.2,30,30.5,Based on your recent interest,680
+135,Beauty,1870.0,Bains LLC,4.0,30,30.5,Based on your recent interest,680
+48,Wellness,345.0,"Mohanty, Sathe and Grewal",4.6,30,30.3,Based on your recent interest,680
+38,Electronics,72197.0,Nath-Memon,3.4,30,108.577,Based on your recent interest,13
+159,Beauty,48089.0,Ravel LLC,4.4,30,83.069,Based on your recent interest,13
+54,Apparel,748.0,Lal Inc,4.6,20,25.168000000000003,Based on your recent interest,13
+66,Wellness,1777.0,Sodhi Group,3.4,30,24.057000000000002,Based on your recent interest,13
+98,Groceries,288.0,Bhatia-Butala,4.1,30,23.608,Based on your recent interest,13
+48,Wellness,345.0,"Mohanty, Sathe and Grewal",4.6,30,49.620000000000005,Based on your recent interest,230
+121,Apparel,816.0,Khurana-Dada,4.2,30,47.44,Based on your recent interest,230
+144,Groceries,1937.0,"Kumar, Lalla and Pal",4.3,30,47.16,Based on your recent interest,230
+91,Beauty,868.0,Zacharia LLC,3.0,30,45.7,Based on your recent interest,230
+49,Electronics,6504.0,Boase Inc,4.4,30,39.58,Based on your recent interest,230
+187,Groceries,1595.0,Sathe-Chawla,3.6,30,37.42,Based on your recent interest,831
+61,Apparel,1020.0,Palan LLC,4.6,20,36.620000000000005,Based on your recent interest,831
+16,Beauty,990.0,Oommen-Prakash,4.6,10,35.22,Based on your recent interest,831
+194,Wellness,669.0,Kumer Group,3.1,10,32.52,Based on your recent interest,831
+189,Electronics,34175.0,Patil Inc,3.9,0,32.08,Based on your recent interest,831
+196,Electronics,76771.0,Palla-Sama,3.7,20,114.411,Based on your recent interest,730
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,97.34700000000001,Best deal for you,730
+86,Wellness,1328.0,Cheema-Shenoy,4.9,30,32.608000000000004,Based on your recent interest,730
+19,Apparel,804.0,Jaggi-Swaminathan,3.9,20,31.684,Based on your recent interest,730
+117,Groceries,1690.0,Yohannan LLC,3.6,30,30.310000000000006,Based on your recent interest,730
+115,Apparel,1099.0,Tank Inc,4.3,30,39.56,Based on your recent interest,170
+165,Beauty,24209.0,"Balasubramanian, Balan and Panchal",4.8,30,39.260000000000005,Based on your recent interest,170
+111,Groceries,269.0,"Thakur, Comar and Palla",4.1,30,37.92,Based on your recent interest,170
+14,Wellness,462.0,Mammen Inc,4.3,30,36.760000000000005,Based on your recent interest,170
+112,Electronics,72847.0,Vala-Wali,3.5,30,34.2,Based on your recent interest,170
+171,Electronics,74098.0,Edwin-Sarkar,4.0,30,111.598,Based on your recent interest,630
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,97.34700000000001,Best deal for you,630
+27,Wellness,1756.0,Verma-Kurian,3.8,20,30.616,Based on your recent interest,630
+160,Groceries,476.0,"Bhatti, Anand and Andra",4.0,30,29.976,Based on your recent interest,630
+11,Apparel,158.0,"Deshpande, Kothari and Naidu",4.3,0,29.118000000000002,Based on your recent interest,630
+196,Electronics,76771.0,Palla-Sama,3.7,20,101.111,Popular in your segment,233
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,94.34700000000001,Best deal for you,233
+117,Groceries,1690.0,Yohannan LLC,3.6,30,27.310000000000006,Based on your recent interest,233
+175,Apparel,1049.0,"Dutt, Ramakrishnan and Gour",3.2,30,26.989,Based on your recent interest,233
+64,Wellness,1854.0,Prakash PLC,4.6,20,26.274,Based on your recent interest,233
+196,Electronics,76771.0,Palla-Sama,3.7,20,101.111,Popular in your segment,471
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,94.34700000000001,Best deal for you,471
+11,Apparel,158.0,"Deshpande, Kothari and Naidu",4.3,0,26.118000000000002,Based on your recent interest,471
+87,Groceries,1226.0,"Naik, Shanker and Kapadia",4.7,20,25.266,Based on your recent interest,471
+63,Wellness,876.0,"Varty, Deep and Prashad",4.8,10,25.136000000000003,Based on your recent interest,471
+196,Electronics,76771.0,Palla-Sama,3.7,20,111.411,Based on your recent interest,603
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,104.947,Based on your recent interest,603
+155,Groceries,411.0,Tank-Brar,3.2,10,27.151000000000003,Based on your recent interest,603
+75,Apparel,1442.0,Apte-Dora,4.9,30,25.722,Based on your recent interest,603
+63,Wellness,876.0,"Varty, Deep and Prashad",4.8,10,25.136000000000003,Based on your recent interest,603
+175,Apparel,1049.0,"Dutt, Ramakrishnan and Gour",3.2,30,48.74,Based on your recent interest,444
+14,Wellness,462.0,Mammen Inc,4.3,30,47.36,Based on your recent interest,444
+126,Electronics,40992.0,Bhat-Tara,3.9,30,45.28,Based on your recent interest,444
+29,Beauty,24908.0,"Rastogi, Sundaram and Majumdar",3.5,30,45.2,Based on your recent interest,444
+87,Groceries,1226.0,"Naik, Shanker and Kapadia",4.7,20,43.44,Based on your recent interest,444
+191,Beauty,34175.0,"Baral, Uppal and Gour",4.2,10,37.14,Based on your recent interest,319
+14,Wellness,462.0,Mammen Inc,4.3,30,36.760000000000005,Based on your recent interest,319
+144,Groceries,1937.0,"Kumar, Lalla and Pal",4.3,30,35.46,Based on your recent interest,319
+148,Apparel,1436.0,Parikh Group,4.2,10,33.94,Based on your recent interest,319
+28,Electronics,24908.0,Wason PLC,3.6,10,32.22,Based on your recent interest,319
+66,Wellness,1777.0,Sodhi Group,3.4,30,37.28,Based on your recent interest,799
+35,Groceries,1709.0,"Memon, Tata and Mukhopadhyay",5.0,30,36.900000000000006,Based on your recent interest,799
+94,Apparel,1852.0,"Raj, Walia and Khosla",3.0,20,33.5,Based on your recent interest,799
+52,Electronics,8834.0,Loke Ltd,4.3,20,33.36,Based on your recent interest,799
+9,Beauty,418.0,Bandi LLC,3.5,10,32.6,Based on your recent interest,799
+144,Groceries,1937.0,"Kumar, Lalla and Pal",4.3,30,50.16,Based on your recent interest,254
+82,Apparel,1243.0,Suri Inc,4.5,30,48.6,Based on your recent interest,254
+14,Wellness,462.0,Mammen Inc,4.3,30,47.36,Based on your recent interest,254
+100,Beauty,1603.0,"Date, Madan and Tata",4.7,30,40.74,Best deal for you,254
+172,Electronics,25884.0,Subramanian and Sons,3.9,20,37.68,Based on your recent interest,254
+12,Groceries,1869.0,Kale Inc,3.9,30,44.68,Based on your recent interest,589
+146,Wellness,412.0,"Ranganathan, Narang and Bajaj",4.9,30,43.68,Based on your recent interest,589
+88,Beauty,1226.0,"Chaudhry, Virk and Jhaveri",4.7,30,41.24,Based on your recent interest,589
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,38.24,Best deal for you,589
+103,Electronics,44829.0,Gopal Group,4.8,20,35.66,Based on your recent interest,589
+196,Electronics,76771.0,Palla-Sama,3.7,20,104.111,Popular in your segment,159
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,97.34700000000001,Best deal for you,159
+23,Wellness,995.0,Barad Inc,3.5,30,29.595000000000002,Based on your recent interest,159
+97,Groceries,1921.0,"Goda, Gopal and Doctor",3.5,10,27.320999999999998,Based on your recent interest,159
+163,Apparel,1620.0,Bhavsar and Sons,4.5,10,27.220000000000002,Based on your recent interest,159
+196,Electronics,76771.0,Palla-Sama,3.7,20,104.111,Popular in your segment,721
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,97.34700000000001,Best deal for you,721
+117,Groceries,1690.0,Yohannan LLC,3.6,30,30.310000000000006,Based on your recent interest,721
+64,Wellness,1854.0,Prakash PLC,4.6,20,29.274,Based on your recent interest,721
+75,Apparel,1442.0,Apte-Dora,4.9,30,28.722,Based on your recent interest,721
+135,Beauty,1870.0,Bains LLC,4.0,30,30.5,Based on your recent interest,599
+90,Apparel,868.0,"Bora, Mitra and Wable",3.7,20,29.35,Based on your recent interest,599
+45,Groceries,506.0,Kalita LLC,4.8,20,29.1,Based on your recent interest,599
+157,Wellness,572.0,"Sawhney, Choudhry and Barman",3.5,10,28.650000000000002,Based on your recent interest,599
+103,Electronics,44829.0,Gopal Group,4.8,20,27.500000000000004,Based on your recent interest,599
+191,Beauty,34175.0,"Baral, Uppal and Gour",4.2,10,37.14,Based on your recent interest,205
+14,Wellness,462.0,Mammen Inc,4.3,30,36.760000000000005,Based on your recent interest,205
+180,Groceries,1516.0,"Ramaswamy, Menon and Sinha",4.4,10,36.68000000000001,Based on your recent interest,205
+59,Apparel,1213.0,Nagar-Sandal,3.6,20,32.42,Based on your recent interest,205
+189,Electronics,34175.0,Patil Inc,3.9,0,32.08,Based on your recent interest,205
+165,Beauty,24209.0,"Balasubramanian, Balan and Panchal",4.8,30,39.260000000000005,Based on your recent interest,517
+35,Groceries,1709.0,"Memon, Tata and Mukhopadhyay",5.0,30,37.2,Based on your recent interest,517
+61,Apparel,1020.0,Palan LLC,4.6,20,36.620000000000005,Based on your recent interest,517
+139,Wellness,724.0,Shroff and Sons,4.0,20,35.3,Based on your recent interest,517
+52,Electronics,8834.0,Loke Ltd,4.3,20,33.36,Based on your recent interest,517
+23,Wellness,995.0,Barad Inc,3.5,30,54.400000000000006,Based on your recent interest,88
+144,Groceries,1937.0,"Kumar, Lalla and Pal",4.3,30,50.16,Based on your recent interest,88
+126,Electronics,40992.0,Bhat-Tara,3.9,30,45.58,Based on your recent interest,88
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,41.24,Best deal for you,88
+100,Beauty,1603.0,"Date, Madan and Tata",4.7,30,40.74,Best deal for you,88
+58,Wellness,1527.0,Sane Ltd,3.4,30,48.38,Based on your recent interest,608
+111,Groceries,269.0,"Thakur, Comar and Palla",4.1,30,45.72,Based on your recent interest,608
+165,Beauty,24209.0,"Balasubramanian, Balan and Panchal",4.8,30,45.46,Based on your recent interest,608
+126,Electronics,40992.0,Bhat-Tara,3.9,30,45.28,Based on your recent interest,608
+37,Apparel,214.0,Balakrishnan Ltd,4.6,20,41.82,Based on your recent interest,608
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,51.540000000000006,Based on your recent interest,753
+110,Groceries,1710.0,"Wason, Garde and Palan",3.3,30,48.760000000000005,Based on your recent interest,753
+29,Beauty,24908.0,"Rastogi, Sundaram and Majumdar",3.5,30,45.2,Based on your recent interest,753
+128,Wellness,1636.0,Joshi Ltd,4.1,20,44.92,Based on your recent interest,753
+133,Electronics,9729.0,Pillai Inc,4.3,30,44.16,Based on your recent interest,753
+196,Electronics,76771.0,Palla-Sama,3.7,20,119.411,Based on your recent interest,830
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,102.34700000000001,Best deal for you,830
+19,Apparel,804.0,Jaggi-Swaminathan,3.9,20,36.684000000000005,Based on your recent interest,830
+27,Wellness,1756.0,Verma-Kurian,3.8,20,35.616,Based on your recent interest,830
+56,Groceries,1583.0,"Krishnan, Balakrishnan and Balan",3.5,10,34.382999999999996,Based on your recent interest,830
+115,Apparel,1099.0,Tank Inc,4.3,30,49.760000000000005,Based on your recent interest,186
+12,Groceries,1869.0,Kale Inc,3.9,30,47.68,Based on your recent interest,186
+88,Beauty,1226.0,"Chaudhry, Virk and Jhaveri",4.7,30,44.24,Based on your recent interest,186
+23,Wellness,995.0,Barad Inc,3.5,30,44.1,Best deal for you,186
+49,Electronics,6504.0,Boase Inc,4.4,30,42.58,Based on your recent interest,186
+38,Electronics,72197.0,Nath-Memon,3.4,30,108.87700000000001,Based on your recent interest,727
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,94.34700000000001,Best deal for you,727
+19,Apparel,804.0,Jaggi-Swaminathan,3.9,20,28.684,Based on your recent interest,727
+63,Wellness,876.0,"Varty, Deep and Prashad",4.8,10,25.136000000000003,Based on your recent interest,727
+107,Groceries,1205.0,"Chaudhuri, Merchant and Loke",3.7,10,24.845,Based on your recent interest,727
+13,Wellness,657.0,"Peri, Kapur and Dara",3.3,30,46.760000000000005,Based on your recent interest,253
+164,Electronics,24209.0,Narayanan PLC,4.7,30,43.44,Based on your recent interest,253
+72,Beauty,465.0,Chander Inc,4.1,30,41.72,Based on your recent interest,253
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,41.24,Best deal for you,253
+173,Groceries,1684.0,Kumer-Rattan,3.9,20,40.88,Based on your recent interest,253
+48,Wellness,345.0,"Mohanty, Sathe and Grewal",4.6,30,52.620000000000005,Based on your recent interest,648
+144,Groceries,1937.0,"Kumar, Lalla and Pal",4.3,30,50.16,Based on your recent interest,648
+126,Electronics,40992.0,Bhat-Tara,3.9,30,45.28,Based on your recent interest,648
+119,Beauty,283.0,"Subramanian, Gour and Issac",3.4,20,44.38,Based on your recent interest,648
+94,Apparel,1852.0,"Raj, Walia and Khosla",3.0,20,41.5,Based on your recent interest,648
+121,Apparel,816.0,Khurana-Dada,4.2,30,50.44,Based on your recent interest,983
+110,Groceries,1710.0,"Wason, Garde and Palan",3.3,30,48.760000000000005,Based on your recent interest,983
+177,Wellness,377.0,Patel Ltd,3.8,30,44.86,Based on your recent interest,983
+119,Beauty,283.0,"Subramanian, Gour and Issac",3.4,20,44.38,Based on your recent interest,983
+164,Electronics,24209.0,Narayanan PLC,4.7,30,43.44,Based on your recent interest,983
+23,Wellness,995.0,Barad Inc,3.5,30,59.400000000000006,Based on your recent interest,979
+121,Apparel,816.0,Khurana-Dada,4.2,30,55.14,Based on your recent interest,979
+91,Beauty,868.0,Zacharia LLC,3.0,30,53.7,Based on your recent interest,979
+35,Groceries,1709.0,"Memon, Tata and Mukhopadhyay",5.0,30,49.7,Based on your recent interest,979
+49,Electronics,6504.0,Boase Inc,4.4,30,47.88,Based on your recent interest,979
+2,Beauty,1420.0,"Raj, Sachdev and Nair",3.8,30,35.260000000000005,Based on your recent interest,735
+111,Groceries,269.0,"Thakur, Comar and Palla",4.1,30,34.92,Based on your recent interest,735
+139,Wellness,724.0,Shroff and Sons,4.0,20,32.3,Based on your recent interest,735
+108,Apparel,413.0,Srivastava-Balan,4.3,0,29.560000000000002,Based on your recent interest,735
+32,Electronics,37977.0,"Jhaveri, Nagar and Kuruvilla",3.3,20,28.160000000000004,Based on your recent interest,735
+48,Wellness,345.0,"Mohanty, Sathe and Grewal",4.6,30,49.620000000000005,Based on your recent interest,58
+121,Apparel,816.0,Khurana-Dada,4.2,30,47.14,Based on your recent interest,58
+135,Beauty,1870.0,Bains LLC,4.0,30,45.1,Based on your recent interest,58
+45,Groceries,506.0,Kalita LLC,4.8,20,39.260000000000005,Based on your recent interest,58
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,33.620000000000005,Best deal for you,58
+48,Wellness,345.0,"Mohanty, Sathe and Grewal",4.6,30,49.620000000000005,Based on your recent interest,633
+121,Apparel,816.0,Khurana-Dada,4.2,30,47.14,Based on your recent interest,633
+12,Groceries,1869.0,Kale Inc,3.9,30,44.980000000000004,Based on your recent interest,633
+52,Electronics,8834.0,Loke Ltd,4.3,20,43.16,Based on your recent interest,633
+29,Beauty,24908.0,"Rastogi, Sundaram and Majumdar",3.5,30,42.2,Based on your recent interest,633
+165,Beauty,24209.0,"Balasubramanian, Balan and Panchal",4.8,30,39.260000000000005,Based on your recent interest,78
+170,Apparel,1162.0,Kamdar-Patel,5.0,30,38.5,Based on your recent interest,78
+180,Groceries,1516.0,"Ramaswamy, Menon and Sinha",4.4,10,36.68000000000001,Based on your recent interest,78
+177,Wellness,377.0,Patel Ltd,3.8,30,35.86,Based on your recent interest,78
+52,Electronics,8834.0,Loke Ltd,4.3,20,33.36,Based on your recent interest,78
+52,Electronics,8834.0,Loke Ltd,4.3,20,46.16,Based on your recent interest,214
+23,Wellness,995.0,Barad Inc,3.5,30,44.1,Best deal for you,214
+51,Beauty,860.0,Mohan-Zacharia,4.9,20,43.08,Based on your recent interest,214
+45,Groceries,506.0,Kalita LLC,4.8,20,42.260000000000005,Based on your recent interest,214
+94,Apparel,1852.0,"Raj, Walia and Khosla",3.0,20,41.5,Based on your recent interest,214
+48,Wellness,345.0,"Mohanty, Sathe and Grewal",4.6,30,49.92,Based on your recent interest,47
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,48.540000000000006,Based on your recent interest,47
+12,Groceries,1869.0,Kale Inc,3.9,30,44.68,Based on your recent interest,47
+167,Beauty,24209.0,Palla PLC,4.2,30,41.94,Based on your recent interest,47
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,33.620000000000005,Best deal for you,47
+100,Beauty,1603.0,"Date, Madan and Tata",4.7,30,51.040000000000006,Based on your recent interest,163
+111,Groceries,269.0,"Thakur, Comar and Palla",4.1,30,46.02,Based on your recent interest,163
+23,Wellness,995.0,Barad Inc,3.5,30,44.1,Best deal for you,163
+121,Apparel,816.0,Khurana-Dada,4.2,30,39.84,Best deal for you,163
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,36.620000000000005,Best deal for you,163
+44,Electronics,73034.0,Aggarwal-Singh,3.5,0,101.534,Based on your recent interest,480
+77,Beauty,62349.0,Prabhu-Shah,4.6,0,81.269,Popular in your segment,480
+155,Groceries,411.0,Tank-Brar,3.2,10,27.151000000000003,Based on your recent interest,480
+54,Apparel,748.0,Lal Inc,4.6,20,25.168000000000003,Based on your recent interest,480
+128,Wellness,1636.0,Joshi Ltd,4.1,20,24.756,Based on your recent interest,480
+111,Groceries,269.0,"Thakur, Comar and Palla",4.1,30,37.92,Based on your recent interest,314
+129,Wellness,1594.0,"Kapadia, Swamy and Merchant",4.4,10,36.78,Based on your recent interest,314
+136,Electronics,42347.0,Agate-Sagar,4.7,30,36.040000000000006,Based on your recent interest,314
+188,Apparel,340.0,"Baral, Banerjee and Balakrishnan",4.9,10,35.28,Based on your recent interest,314
+51,Beauty,860.0,Mohan-Zacharia,4.9,20,32.28,Based on your recent interest,314
+162,Beauty,435.0,"Sule, Murty and Palla",4.9,20,30.75,Based on your recent interest,195
+126,Electronics,40992.0,Bhat-Tara,3.9,30,30.450000000000003,Based on your recent interest,195
+85,Wellness,922.0,Bawa Group,4.3,20,30.45,Based on your recent interest,195
+39,Groceries,1773.0,Talwar-Baral,4.7,30,29.25,Based on your recent interest,195
+108,Apparel,413.0,Srivastava-Balan,4.3,0,28.45,Based on your recent interest,195
+125,Groceries,128.0,Manne Group,4.4,20,30.9,Based on your recent interest,236
+40,Electronics,33631.0,Nagar Group,4.5,30,30.75,Based on your recent interest,236
+135,Beauty,1870.0,Bains LLC,4.0,30,30.5,Based on your recent interest,236
+115,Apparel,1099.0,Tank Inc,4.3,30,29.049999999999997,Based on your recent interest,236
+66,Wellness,1777.0,Sodhi Group,3.4,30,28.2,Based on your recent interest,236
+180,Groceries,1516.0,"Ramaswamy, Menon and Sinha",4.4,10,36.38,Based on your recent interest,859
+139,Wellness,724.0,Shroff and Sons,4.0,20,35.3,Based on your recent interest,859
+188,Apparel,340.0,"Baral, Banerjee and Balakrishnan",4.9,10,35.28,Based on your recent interest,859
+52,Electronics,8834.0,Loke Ltd,4.3,20,33.36,Based on your recent interest,859
+9,Beauty,418.0,Bandi LLC,3.5,10,32.6,Based on your recent interest,859
+100,Beauty,1603.0,"Date, Madan and Tata",4.7,30,51.040000000000006,Based on your recent interest,888
+182,Groceries,274.0,"Prabhu, Sethi and Prakash",4.5,30,47.400000000000006,Based on your recent interest,888
+13,Wellness,657.0,"Peri, Kapur and Dara",3.3,30,46.760000000000005,Based on your recent interest,888
+126,Electronics,40992.0,Bhat-Tara,3.9,30,45.28,Based on your recent interest,888
+4,Apparel,1455.0,Bhalla-Apte,4.9,20,41.480000000000004,Based on your recent interest,888
+196,Electronics,76771.0,Palla-Sama,3.7,20,109.111,Popular in your segment,683
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,102.34700000000001,Best deal for you,683
+35,Groceries,1709.0,"Memon, Tata and Mukhopadhyay",5.0,30,37.60900000000001,Based on your recent interest,683
+14,Wellness,462.0,Mammen Inc,4.3,30,33.822,Based on your recent interest,683
+163,Apparel,1620.0,Bhavsar and Sons,4.5,10,32.22,Based on your recent interest,683
+58,Wellness,1527.0,Sane Ltd,3.4,30,37.38,Based on your recent interest,602
+160,Groceries,476.0,"Bhatti, Anand and Andra",4.0,30,36.3,Based on your recent interest,602
+135,Beauty,1870.0,Bains LLC,4.0,30,34.3,Based on your recent interest,602
+164,Electronics,24209.0,Narayanan PLC,4.7,30,33.64,Based on your recent interest,602
+46,Apparel,331.0,"Nanda, Sampath and Cheema",4.3,10,33.16,Based on your recent interest,602
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,37.52,Based on your recent interest,126
+17,Beauty,990.0,Parekh-Nayar,3.8,20,36.86,Based on your recent interest,126
+61,Apparel,1020.0,Palan LLC,4.6,20,36.620000000000005,Based on your recent interest,126
+180,Groceries,1516.0,"Ramaswamy, Menon and Sinha",4.4,10,36.38,Based on your recent interest,126
+139,Wellness,724.0,Shroff and Sons,4.0,20,35.3,Based on your recent interest,126
+170,Apparel,1162.0,Kamdar-Patel,5.0,30,38.5,Based on your recent interest,538
+180,Groceries,1516.0,"Ramaswamy, Menon and Sinha",4.4,10,36.38,Based on your recent interest,538
+177,Wellness,377.0,Patel Ltd,3.8,30,35.86,Based on your recent interest,538
+88,Beauty,1226.0,"Chaudhry, Virk and Jhaveri",4.7,30,32.44,Based on your recent interest,538
+124,Electronics,32856.0,Anand-Ramachandran,4.7,10,31.64,Based on your recent interest,538
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,104.647,Based on your recent interest,651
+196,Electronics,76771.0,Palla-Sama,3.7,20,101.111,Popular in your segment,651
+160,Groceries,476.0,"Bhatti, Anand and Andra",4.0,30,26.976,Based on your recent interest,651
+1,Wellness,1420.0,Om PLC,3.5,30,25.82,Based on your recent interest,651
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,25.447,Based on your recent interest,651
+23,Wellness,995.0,Barad Inc,3.5,30,59.400000000000006,Based on your recent interest,580
+100,Beauty,1603.0,"Date, Madan and Tata",4.7,30,56.040000000000006,Based on your recent interest,580
+75,Apparel,1442.0,Apte-Dora,4.9,30,53.68,Based on your recent interest,580
+98,Groceries,288.0,Bhatia-Butala,4.1,30,51.52,Based on your recent interest,580
+126,Electronics,40992.0,Bhat-Tara,3.9,30,50.28,Based on your recent interest,580
+175,Apparel,1049.0,"Dutt, Ramakrishnan and Gour",3.2,30,48.74,Based on your recent interest,268
+147,Wellness,774.0,Sarraf LLC,4.1,30,46.92,Based on your recent interest,268
+111,Groceries,269.0,"Thakur, Comar and Palla",4.1,30,45.72,Based on your recent interest,268
+159,Beauty,48089.0,Ravel LLC,4.4,30,40.980000000000004,Based on your recent interest,268
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,36.620000000000005,Best deal for you,268
+144,Groceries,1937.0,"Kumar, Lalla and Pal",4.3,30,55.16,Based on your recent interest,849
+91,Beauty,868.0,Zacharia LLC,3.0,30,53.7,Based on your recent interest,849
+14,Wellness,462.0,Mammen Inc,4.3,30,52.36,Based on your recent interest,849
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,46.24,Best deal for you,849
+112,Electronics,72847.0,Vala-Wali,3.5,30,44.2,Based on your recent interest,849
+170,Apparel,1162.0,Kamdar-Patel,5.0,30,38.5,Based on your recent interest,171
+177,Wellness,377.0,Patel Ltd,3.8,30,35.86,Based on your recent interest,171
+134,Groceries,1870.0,Chahal and Sons,3.0,0,33.900000000000006,Based on your recent interest,171
+133,Electronics,9729.0,Pillai Inc,4.3,30,31.16,Based on your recent interest,171
+33,Beauty,37977.0,"Salvi, Pingle and Lall",3.2,10,30.14,Based on your recent interest,171
+196,Electronics,76771.0,Palla-Sama,3.7,20,104.111,Popular in your segment,461
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,97.34700000000001,Best deal for you,461
+86,Wellness,1328.0,Cheema-Shenoy,4.9,30,32.608000000000004,Based on your recent interest,461
+75,Apparel,1442.0,Apte-Dora,4.9,30,28.722,Based on your recent interest,461
+102,Groceries,176.0,"Kala, Pathak and Krishna",3.2,30,26.316,Based on your recent interest,461
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,31.35,Based on your recent interest,930
+48,Wellness,345.0,"Mohanty, Sathe and Grewal",4.6,30,30.0,Based on your recent interest,930
+115,Apparel,1099.0,Tank Inc,4.3,30,29.049999999999997,Based on your recent interest,930
+100,Beauty,1603.0,"Date, Madan and Tata",4.7,30,28.85,Based on your recent interest,930
+78,Groceries,1183.0,"Sagar, Dutta and Edwin",4.5,0,27.35,Based on your recent interest,930
+196,Electronics,76771.0,Palla-Sama,3.7,20,104.111,Popular in your segment,344
+21,Beauty,65478.0,"Kannan, Grover and Naidu",4.6,10,84.798,Popular in your segment,344
+117,Groceries,1690.0,Yohannan LLC,3.6,30,30.310000000000006,Based on your recent interest,344
+177,Wellness,377.0,Patel Ltd,3.8,30,30.136999999999997,Based on your recent interest,344
+121,Apparel,816.0,Khurana-Dada,4.2,30,27.556,Based on your recent interest,344
+175,Apparel,1049.0,"Dutt, Ramakrishnan and Gour",3.2,30,48.74,Based on your recent interest,897
+160,Groceries,476.0,"Bhatti, Anand and Andra",4.0,30,46.900000000000006,Based on your recent interest,897
+29,Beauty,24908.0,"Rastogi, Sundaram and Majumdar",3.5,30,45.2,Based on your recent interest,897
+23,Wellness,995.0,Barad Inc,3.5,30,44.1,Best deal for you,897
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,36.620000000000005,Best deal for you,897
+171,Electronics,74098.0,Edwin-Sarkar,4.0,30,111.598,Based on your recent interest,167
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,97.34700000000001,Best deal for you,167
+117,Groceries,1690.0,Yohannan LLC,3.6,30,30.310000000000006,Based on your recent interest,167
+177,Wellness,377.0,Patel Ltd,3.8,30,29.837,Based on your recent interest,167
+121,Apparel,816.0,Khurana-Dada,4.2,30,27.556,Based on your recent interest,167
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,51.540000000000006,Based on your recent interest,385
+58,Wellness,1527.0,Sane Ltd,3.4,30,48.38,Based on your recent interest,385
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,46.92,Based on your recent interest,385
+88,Beauty,1226.0,"Chaudhry, Virk and Jhaveri",4.7,30,44.24,Based on your recent interest,385
+102,Groceries,176.0,"Kala, Pathak and Krishna",3.2,30,43.94,Based on your recent interest,385
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,37.52,Based on your recent interest,710
+14,Wellness,462.0,Mammen Inc,4.3,30,36.760000000000005,Based on your recent interest,710
+162,Beauty,435.0,"Sule, Murty and Palla",4.9,20,36.28,Based on your recent interest,710
+102,Groceries,176.0,"Kala, Pathak and Krishna",3.2,30,36.14,Based on your recent interest,710
+50,Apparel,860.0,Maharaj Inc,3.5,0,34.0,Based on your recent interest,710
+35,Groceries,1709.0,"Memon, Tata and Mukhopadhyay",5.0,30,36.900000000000006,Based on your recent interest,182
+61,Apparel,1020.0,Palan LLC,4.6,20,36.620000000000005,Based on your recent interest,182
+162,Beauty,435.0,"Sule, Murty and Palla",4.9,20,36.28,Based on your recent interest,182
+101,Wellness,1778.0,"Vig, Malhotra and Shan",4.2,0,35.74,Based on your recent interest,182
+52,Electronics,8834.0,Loke Ltd,4.3,20,33.36,Based on your recent interest,182
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,104.647,Based on your recent interest,638
+196,Electronics,76771.0,Palla-Sama,3.7,20,101.111,Popular in your segment,638
+35,Groceries,1709.0,"Memon, Tata and Mukhopadhyay",5.0,30,29.609,Based on your recent interest,638
+23,Wellness,995.0,Barad Inc,3.5,30,26.595000000000002,Based on your recent interest,638
+170,Apparel,1162.0,Kamdar-Patel,5.0,30,25.462,Based on your recent interest,638
+82,Apparel,1243.0,Suri Inc,4.5,30,45.6,Based on your recent interest,530
+12,Groceries,1869.0,Kale Inc,3.9,30,44.68,Based on your recent interest,530
+167,Beauty,24209.0,Palla PLC,4.2,30,42.24,Based on your recent interest,530
+83,Wellness,833.0,"Grewal, Iyengar and Zacharia",4.4,30,41.480000000000004,Based on your recent interest,530
+49,Electronics,6504.0,Boase Inc,4.4,30,39.58,Based on your recent interest,530
+121,Apparel,816.0,Khurana-Dada,4.2,30,50.44,Based on your recent interest,838
+14,Wellness,462.0,Mammen Inc,4.3,30,47.36,Based on your recent interest,838
+160,Groceries,476.0,"Bhatti, Anand and Andra",4.0,30,46.900000000000006,Based on your recent interest,838
+136,Electronics,42347.0,Agate-Sagar,4.7,30,43.44,Based on your recent interest,838
+162,Beauty,435.0,"Sule, Murty and Palla",4.9,20,42.68,Based on your recent interest,838
+100,Beauty,1603.0,"Date, Madan and Tata",4.7,30,51.040000000000006,Based on your recent interest,670
+12,Groceries,1869.0,Kale Inc,3.9,30,47.68,Based on your recent interest,670
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,46.92,Based on your recent interest,670
+13,Wellness,657.0,"Peri, Kapur and Dara",3.3,30,46.760000000000005,Based on your recent interest,670
+19,Apparel,804.0,Jaggi-Swaminathan,3.9,20,41.68,Based on your recent interest,670
+61,Apparel,1020.0,Palan LLC,4.6,20,36.620000000000005,Based on your recent interest,100
+136,Electronics,42347.0,Agate-Sagar,4.7,30,36.040000000000006,Based on your recent interest,100
+135,Beauty,1870.0,Bains LLC,4.0,30,34.3,Based on your recent interest,100
+68,Groceries,939.0,Dixit Ltd,3.2,20,33.14,Based on your recent interest,100
+48,Wellness,345.0,"Mohanty, Sathe and Grewal",4.6,30,32.02,Based on your recent interest,100
+125,Groceries,128.0,Manne Group,4.4,20,30.9,Based on your recent interest,798
+165,Beauty,24209.0,"Balasubramanian, Balan and Panchal",4.8,30,30.500000000000004,Based on your recent interest,798
+172,Electronics,25884.0,Subramanian and Sons,3.9,20,29.450000000000003,Based on your recent interest,798
+37,Apparel,214.0,Balakrishnan Ltd,4.6,20,29.0,Based on your recent interest,798
+73,Wellness,624.0,"Pau, Pant and Bali",3.7,0,27.75,Based on your recent interest,798
+146,Wellness,412.0,"Ranganathan, Narang and Bajaj",4.9,30,46.68,Based on your recent interest,397
+102,Groceries,176.0,"Kala, Pathak and Krishna",3.2,30,43.94,Based on your recent interest,397
+49,Electronics,6504.0,Boase Inc,4.4,30,42.58,Based on your recent interest,397
+37,Apparel,214.0,Balakrishnan Ltd,4.6,20,41.82,Based on your recent interest,397
+100,Beauty,1603.0,"Date, Madan and Tata",4.7,30,40.74,Best deal for you,397
+196,Electronics,76771.0,Palla-Sama,3.7,20,101.111,Popular in your segment,402
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,94.34700000000001,Best deal for you,402
+141,Groceries,1380.0,"Garg, Garde and Thaman",3.5,20,25.98,Based on your recent interest,402
+129,Wellness,1594.0,"Kapadia, Swamy and Merchant",4.4,10,24.974000000000004,Based on your recent interest,402
+153,Apparel,1589.0,"Morar, Ben and Babu",4.5,0,21.988999999999997,Based on your recent interest,402
+182,Groceries,274.0,"Prabhu, Sethi and Prakash",4.5,30,47.7,Based on your recent interest,691
+23,Wellness,995.0,Barad Inc,3.5,30,44.1,Best deal for you,691
+136,Electronics,42347.0,Agate-Sagar,4.7,30,43.44,Based on your recent interest,691
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,41.24,Best deal for you,691
+100,Beauty,1603.0,"Date, Madan and Tata",4.7,30,40.74,Best deal for you,691
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,37.52,Based on your recent interest,368
+187,Groceries,1595.0,Sathe-Chawla,3.6,30,37.42,Based on your recent interest,368
+176,Wellness,331.0,"Char, Kala and Bava",4.6,10,36.02,Based on your recent interest,368
+4,Apparel,1455.0,Bhalla-Apte,4.9,20,31.480000000000004,Based on your recent interest,368
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,30.800000000000004,Based on your recent interest,368
+165,Beauty,24209.0,"Balasubramanian, Balan and Panchal",4.8,30,36.260000000000005,Based on your recent interest,108
+66,Wellness,1777.0,Sodhi Group,3.4,30,33.980000000000004,Based on your recent interest,108
+160,Groceries,476.0,"Bhatti, Anand and Andra",4.0,30,33.3,Based on your recent interest,108
+54,Apparel,748.0,Lal Inc,4.6,20,30.82,Based on your recent interest,108
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,24.220000000000002,Best deal for you,108
+196,Electronics,76771.0,Palla-Sama,3.7,20,109.111,Popular in your segment,117
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,102.34700000000001,Best deal for you,117
+14,Wellness,462.0,Mammen Inc,4.3,30,33.822,Based on your recent interest,117
+111,Groceries,269.0,"Thakur, Comar and Palla",4.1,30,33.589,Based on your recent interest,117
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,33.447,Based on your recent interest,117
+82,Apparel,1243.0,Suri Inc,4.5,30,48.6,Based on your recent interest,278
+147,Wellness,774.0,Sarraf LLC,4.1,30,46.92,Based on your recent interest,278
+160,Groceries,476.0,"Bhatti, Anand and Andra",4.0,30,46.900000000000006,Based on your recent interest,278
+29,Beauty,24908.0,"Rastogi, Sundaram and Majumdar",3.5,30,45.2,Based on your recent interest,278
+20,Electronics,65478.0,"Bhatia, Nagarajan and Hayer",3.6,30,42.82,Based on your recent interest,278
+66,Wellness,1777.0,Sodhi Group,3.4,30,41.980000000000004,Based on your recent interest,524
+35,Groceries,1709.0,"Memon, Tata and Mukhopadhyay",5.0,30,41.900000000000006,Based on your recent interest,524
+192,Beauty,34175.0,"Morar, Raman and Ravi",3.9,30,38.88,Based on your recent interest,524
+38,Electronics,72197.0,Nath-Memon,3.4,30,37.980000000000004,Based on your recent interest,524
+151,Apparel,1443.0,Chatterjee Inc,3.6,10,37.620000000000005,Based on your recent interest,524
+58,Wellness,1527.0,Sane Ltd,3.4,30,42.38,Based on your recent interest,745
+117,Groceries,1690.0,Yohannan LLC,3.6,30,40.82,Based on your recent interest,745
+50,Apparel,860.0,Maharaj Inc,3.5,0,39.0,Based on your recent interest,745
+124,Electronics,32856.0,Anand-Ramachandran,4.7,10,36.94,Based on your recent interest,745
+96,Beauty,1982.0,Ratti PLC,3.3,10,35.56,Based on your recent interest,745
+82,Apparel,1243.0,Suri Inc,4.5,30,45.9,Based on your recent interest,194
+110,Groceries,1710.0,"Wason, Garde and Palan",3.3,30,45.760000000000005,Based on your recent interest,194
+52,Electronics,8834.0,Loke Ltd,4.3,20,43.16,Based on your recent interest,194
+88,Beauty,1226.0,"Chaudhry, Virk and Jhaveri",4.7,30,41.24,Based on your recent interest,194
+83,Wellness,833.0,"Grewal, Iyengar and Zacharia",4.4,30,41.18,Based on your recent interest,194
+23,Wellness,995.0,Barad Inc,3.5,30,51.400000000000006,Based on your recent interest,877
+39,Groceries,1773.0,Talwar-Baral,4.7,30,44.44,Based on your recent interest,877
+165,Beauty,24209.0,"Balasubramanian, Balan and Panchal",4.8,30,42.46,Based on your recent interest,877
+133,Electronics,9729.0,Pillai Inc,4.3,30,41.16,Based on your recent interest,877
+37,Apparel,214.0,Balakrishnan Ltd,4.6,20,38.82,Based on your recent interest,877
+23,Wellness,995.0,Barad Inc,3.5,30,54.400000000000006,Based on your recent interest,529
+100,Beauty,1603.0,"Date, Madan and Tata",4.7,30,51.040000000000006,Based on your recent interest,529
+111,Groceries,269.0,"Thakur, Comar and Palla",4.1,30,45.72,Based on your recent interest,529
+164,Electronics,24209.0,Narayanan PLC,4.7,30,43.44,Based on your recent interest,529
+19,Apparel,804.0,Jaggi-Swaminathan,3.9,20,41.980000000000004,Based on your recent interest,529
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,31.35,Based on your recent interest,1
+146,Wellness,412.0,"Ranganathan, Narang and Bajaj",4.9,30,29.75,Based on your recent interest,1
+82,Apparel,1243.0,Suri Inc,4.5,30,29.450000000000003,Based on your recent interest,1
+39,Groceries,1773.0,Talwar-Baral,4.7,30,29.25,Based on your recent interest,1
+167,Beauty,24209.0,Palla PLC,4.2,30,28.200000000000003,Based on your recent interest,1
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,34.52,Based on your recent interest,428
+35,Groceries,1709.0,"Memon, Tata and Mukhopadhyay",5.0,30,33.900000000000006,Based on your recent interest,428
+17,Beauty,990.0,Parekh-Nayar,3.8,20,33.86,Based on your recent interest,428
+54,Apparel,748.0,Lal Inc,4.6,20,30.82,Based on your recent interest,428
+193,Wellness,1329.0,Venkataraman PLC,3.5,0,29.0,Based on your recent interest,428
+48,Wellness,345.0,"Mohanty, Sathe and Grewal",4.6,30,52.620000000000005,Based on your recent interest,339
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,51.540000000000006,Based on your recent interest,339
+100,Beauty,1603.0,"Date, Madan and Tata",4.7,30,51.34,Based on your recent interest,339
+136,Electronics,42347.0,Agate-Sagar,4.7,30,43.44,Based on your recent interest,339
+45,Groceries,506.0,Kalita LLC,4.8,20,42.260000000000005,Based on your recent interest,339
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,51.540000000000006,Based on your recent interest,181
+110,Groceries,1710.0,"Wason, Garde and Palan",3.3,30,48.760000000000005,Based on your recent interest,181
+13,Wellness,657.0,"Peri, Kapur and Dara",3.3,30,46.760000000000005,Based on your recent interest,181
+165,Beauty,24209.0,"Balasubramanian, Balan and Panchal",4.8,30,45.46,Based on your recent interest,181
+133,Electronics,9729.0,Pillai Inc,4.3,30,44.16,Based on your recent interest,181
+171,Electronics,74098.0,Edwin-Sarkar,4.0,30,111.598,Based on your recent interest,252
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,97.34700000000001,Best deal for you,252
+59,Apparel,1213.0,Nagar-Sandal,3.6,20,30.033,Based on your recent interest,252
+182,Groceries,274.0,"Prabhu, Sethi and Prakash",4.5,30,29.074000000000005,Based on your recent interest,252
+48,Wellness,345.0,"Mohanty, Sathe and Grewal",4.6,30,28.365000000000002,Based on your recent interest,252
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,56.540000000000006,Based on your recent interest,705
+110,Groceries,1710.0,"Wason, Garde and Palan",3.3,30,53.760000000000005,Based on your recent interest,705
+146,Wellness,412.0,"Ranganathan, Narang and Bajaj",4.9,30,51.68,Based on your recent interest,705
+126,Electronics,40992.0,Bhat-Tara,3.9,30,50.28,Based on your recent interest,705
+159,Beauty,48089.0,Ravel LLC,4.4,30,45.980000000000004,Based on your recent interest,705
+165,Beauty,24209.0,"Balasubramanian, Balan and Panchal",4.8,30,39.260000000000005,Based on your recent interest,778
+35,Groceries,1709.0,"Memon, Tata and Mukhopadhyay",5.0,30,36.900000000000006,Based on your recent interest,778
+129,Wellness,1594.0,"Kapadia, Swamy and Merchant",4.4,10,36.78,Based on your recent interest,778
+40,Electronics,33631.0,Nagar Group,4.5,30,34.400000000000006,Based on your recent interest,778
+121,Apparel,816.0,Khurana-Dada,4.2,30,31.94,Based on your recent interest,778
+196,Electronics,76771.0,Palla-Sama,3.7,20,109.111,Popular in your segment,615
+21,Beauty,65478.0,"Kannan, Grover and Naidu",4.6,10,89.798,Popular in your segment,615
+86,Wellness,1328.0,Cheema-Shenoy,4.9,30,37.608000000000004,Based on your recent interest,615
+111,Groceries,269.0,"Thakur, Comar and Palla",4.1,30,33.589,Based on your recent interest,615
+148,Apparel,1436.0,Parikh Group,4.2,10,33.176,Based on your recent interest,615
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,107.647,Based on your recent interest,275
+196,Electronics,76771.0,Palla-Sama,3.7,20,104.111,Popular in your segment,275
+56,Groceries,1583.0,"Krishnan, Balakrishnan and Balan",3.5,10,29.383,Based on your recent interest,275
+64,Wellness,1854.0,Prakash PLC,4.6,20,29.274,Based on your recent interest,275
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,28.447,Based on your recent interest,275
+100,Beauty,1603.0,"Date, Madan and Tata",4.7,30,51.040000000000006,Based on your recent interest,828
+14,Wellness,462.0,Mammen Inc,4.3,30,47.36,Based on your recent interest,828
+4,Apparel,1455.0,Bhalla-Apte,4.9,20,41.480000000000004,Based on your recent interest,828
+93,Groceries,113.0,"Kalla, Ramakrishnan and Shere",5.0,20,39.900000000000006,Based on your recent interest,828
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,36.620000000000005,Best deal for you,828
+196,Electronics,76771.0,Palla-Sama,3.7,20,114.411,Based on your recent interest,64
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,97.34700000000001,Best deal for you,64
+19,Apparel,804.0,Jaggi-Swaminathan,3.9,20,31.684,Based on your recent interest,64
+141,Groceries,1380.0,"Garg, Garde and Thaman",3.5,20,28.98,Based on your recent interest,64
+14,Wellness,462.0,Mammen Inc,4.3,30,28.822,Based on your recent interest,64
+86,Wellness,1328.0,Cheema-Shenoy,4.9,30,31.35,Based on your recent interest,237
+125,Groceries,128.0,Manne Group,4.4,20,30.9,Based on your recent interest,237
+165,Beauty,24209.0,"Balasubramanian, Balan and Panchal",4.8,30,30.500000000000004,Based on your recent interest,237
+175,Apparel,1049.0,"Dutt, Ramakrishnan and Gour",3.2,30,30.5,Based on your recent interest,237
+124,Electronics,32856.0,Anand-Ramachandran,4.7,10,30.05,Based on your recent interest,237
+58,Wellness,1527.0,Sane Ltd,3.4,30,42.68000000000001,Based on your recent interest,406
+117,Groceries,1690.0,Yohannan LLC,3.6,30,41.120000000000005,Based on your recent interest,406
+16,Beauty,990.0,Oommen-Prakash,4.6,10,40.22,Based on your recent interest,406
+112,Electronics,72847.0,Vala-Wali,3.5,30,39.2,Based on your recent interest,406
+50,Apparel,860.0,Maharaj Inc,3.5,0,39.0,Based on your recent interest,406
+48,Wellness,345.0,"Mohanty, Sathe and Grewal",4.6,30,52.620000000000005,Based on your recent interest,623
+91,Beauty,868.0,Zacharia LLC,3.0,30,48.7,Based on your recent interest,623
+82,Apparel,1243.0,Suri Inc,4.5,30,48.6,Based on your recent interest,623
+160,Groceries,476.0,"Bhatti, Anand and Andra",4.0,30,46.900000000000006,Based on your recent interest,623
+133,Electronics,9729.0,Pillai Inc,4.3,30,44.16,Based on your recent interest,623
+175,Apparel,1049.0,"Dutt, Ramakrishnan and Gour",3.2,30,48.74,Based on your recent interest,158
+12,Groceries,1869.0,Kale Inc,3.9,30,47.68,Based on your recent interest,158
+165,Beauty,24209.0,"Balasubramanian, Balan and Panchal",4.8,30,45.46,Based on your recent interest,158
+126,Electronics,40992.0,Bhat-Tara,3.9,30,45.28,Based on your recent interest,158
+83,Wellness,833.0,"Grewal, Iyengar and Zacharia",4.4,30,44.18,Based on your recent interest,158
+75,Apparel,1442.0,Apte-Dora,4.9,30,31.75,Based on your recent interest,162
+38,Electronics,72197.0,Nath-Memon,3.4,30,30.2,Based on your recent interest,162
+0,Groceries,748.0,"Patla, Swamy and Borde",4.4,20,29.7,Based on your recent interest,162
+17,Beauty,990.0,Parekh-Nayar,3.8,20,29.4,Based on your recent interest,162
+139,Wellness,724.0,Shroff and Sons,4.0,20,28.3,Based on your recent interest,162
+121,Apparel,816.0,Khurana-Dada,4.2,30,50.14,Based on your recent interest,662
+135,Beauty,1870.0,Bains LLC,4.0,30,48.1,Based on your recent interest,662
+35,Groceries,1709.0,"Memon, Tata and Mukhopadhyay",5.0,30,44.7,Based on your recent interest,662
+23,Wellness,995.0,Barad Inc,3.5,30,44.1,Best deal for you,662
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,36.620000000000005,Best deal for you,662
+98,Groceries,288.0,Bhatia-Butala,4.1,30,36.72,Based on your recent interest,527
+192,Beauty,34175.0,"Morar, Raman and Ravi",3.9,30,33.88,Based on your recent interest,527
+199,Wellness,1272.0,Patel-Thakkar,4.9,10,32.08,Based on your recent interest,527
+186,Apparel,466.0,"Varghese, Babu and Raman",3.8,0,30.060000000000002,Based on your recent interest,527
+130,Electronics,50362.0,Sen-Bal,3.5,0,28.8,Based on your recent interest,527
+111,Groceries,269.0,"Thakur, Comar and Palla",4.1,30,37.92,Based on your recent interest,36
+66,Wellness,1777.0,Sodhi Group,3.4,30,36.980000000000004,Based on your recent interest,36
+17,Beauty,990.0,Parekh-Nayar,3.8,20,36.86,Based on your recent interest,36
+114,Apparel,1660.0,"Das, Chana and Borah",4.0,10,33.900000000000006,Based on your recent interest,36
+20,Electronics,65478.0,"Bhatia, Nagarajan and Hayer",3.6,30,31.020000000000003,Based on your recent interest,36
+2,Beauty,1420.0,"Raj, Sachdev and Nair",3.8,30,35.260000000000005,Based on your recent interest,20
+177,Wellness,377.0,Patel Ltd,3.8,30,32.86,Based on your recent interest,20
+0,Groceries,748.0,"Patla, Swamy and Borde",4.4,20,30.78,Based on your recent interest,20
+156,Apparel,153.0,Patla Group,4.2,20,29.54,Based on your recent interest,20
+7,Electronics,53037.0,Dara Inc,3.2,0,25.740000000000002,Based on your recent interest,20
+112,Electronics,72847.0,Vala-Wali,3.5,30,108.647,Based on your recent interest,355
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,97.34700000000001,Best deal for you,355
+39,Groceries,1773.0,Talwar-Baral,4.7,30,30.113,Based on your recent interest,355
+147,Wellness,774.0,Sarraf LLC,4.1,30,28.694000000000003,Based on your recent interest,355
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,28.447,Based on your recent interest,355
+115,Apparel,1099.0,Tank Inc,4.3,30,49.760000000000005,Based on your recent interest,72
+110,Groceries,1710.0,"Wason, Garde and Palan",3.3,30,48.760000000000005,Based on your recent interest,72
+91,Beauty,868.0,Zacharia LLC,3.0,30,48.7,Based on your recent interest,72
+23,Wellness,995.0,Barad Inc,3.5,30,44.1,Best deal for you,72
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,36.620000000000005,Best deal for you,72
+188,Apparel,340.0,"Baral, Banerjee and Balakrishnan",4.9,10,35.28,Based on your recent interest,290
+112,Electronics,72847.0,Vala-Wali,3.5,30,34.2,Based on your recent interest,290
+68,Groceries,939.0,Dixit Ltd,3.2,20,33.14,Based on your recent interest,290
+27,Wellness,1756.0,Verma-Kurian,3.8,20,32.86,Based on your recent interest,290
+104,Beauty,44829.0,Ganesan Ltd,4.7,0,32.540000000000006,Based on your recent interest,290
+35,Groceries,1709.0,"Memon, Tata and Mukhopadhyay",5.0,30,36.900000000000006,Based on your recent interest,881
+61,Apparel,1020.0,Palan LLC,4.6,20,36.620000000000005,Based on your recent interest,881
+86,Wellness,1328.0,Cheema-Shenoy,4.9,30,33.28,Based on your recent interest,881
+103,Electronics,44829.0,Gopal Group,4.8,20,31.860000000000003,Based on your recent interest,881
+24,Beauty,995.0,Gulati Ltd,3.5,10,30.6,Based on your recent interest,881
+58,Wellness,1527.0,Sane Ltd,3.4,30,48.38,Based on your recent interest,878
+12,Groceries,1869.0,Kale Inc,3.9,30,47.68,Based on your recent interest,878
+88,Beauty,1226.0,"Chaudhry, Virk and Jhaveri",4.7,30,44.24,Based on your recent interest,878
+136,Electronics,42347.0,Agate-Sagar,4.7,30,43.44,Based on your recent interest,878
+19,Apparel,804.0,Jaggi-Swaminathan,3.9,20,41.68,Based on your recent interest,878
+2,Beauty,1420.0,"Raj, Sachdev and Nair",3.8,30,38.56,Based on your recent interest,804
+58,Wellness,1527.0,Sane Ltd,3.4,30,37.38,Based on your recent interest,804
+136,Electronics,42347.0,Agate-Sagar,4.7,30,36.040000000000006,Based on your recent interest,804
+82,Apparel,1243.0,Suri Inc,4.5,30,35.6,Based on your recent interest,804
+78,Groceries,1183.0,"Sagar, Dutta and Edwin",4.5,0,32.2,Based on your recent interest,804
+48,Wellness,345.0,"Mohanty, Sathe and Grewal",4.6,30,52.620000000000005,Based on your recent interest,315
+100,Beauty,1603.0,"Date, Madan and Tata",4.7,30,51.040000000000006,Based on your recent interest,315
+35,Groceries,1709.0,"Memon, Tata and Mukhopadhyay",5.0,30,45.3,Strong interest based on multiple views,315
+49,Electronics,6504.0,Boase Inc,4.4,30,42.58,Based on your recent interest,315
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,41.24,Best deal for you,315
+23,Wellness,995.0,Barad Inc,3.5,30,54.400000000000006,Based on your recent interest,796
+121,Apparel,816.0,Khurana-Dada,4.2,30,50.14,Based on your recent interest,796
+91,Beauty,868.0,Zacharia LLC,3.0,30,48.7,Based on your recent interest,796
+87,Groceries,1226.0,"Naik, Shanker and Kapadia",4.7,20,43.44,Based on your recent interest,796
+52,Electronics,8834.0,Loke Ltd,4.3,20,35.86,Popular in your segment,796
+23,Wellness,995.0,Barad Inc,3.5,30,54.400000000000006,Based on your recent interest,666
+121,Apparel,816.0,Khurana-Dada,4.2,30,50.14,Based on your recent interest,666
+12,Groceries,1869.0,Kale Inc,3.9,30,47.980000000000004,Based on your recent interest,666
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,46.92,Based on your recent interest,666
+165,Beauty,24209.0,"Balasubramanian, Balan and Panchal",4.8,30,45.760000000000005,Based on your recent interest,666
+72,Beauty,465.0,Chander Inc,4.1,30,30.85,Based on your recent interest,90
+19,Apparel,804.0,Jaggi-Swaminathan,3.9,20,30.25,Based on your recent interest,90
+187,Groceries,1595.0,Sathe-Chawla,3.6,30,29.9,Based on your recent interest,90
+177,Wellness,377.0,Patel Ltd,3.8,30,29.2,Based on your recent interest,90
+158,Electronics,48089.0,"Dewan, Grewal and Soman",4.4,0,25.7,Based on your recent interest,90
+196,Electronics,76771.0,Palla-Sama,3.7,20,101.111,Popular in your segment,396
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,94.34700000000001,Best deal for you,396
+35,Groceries,1709.0,"Memon, Tata and Mukhopadhyay",5.0,30,29.609,Based on your recent interest,396
+86,Wellness,1328.0,Cheema-Shenoy,4.9,30,29.608,Based on your recent interest,396
+105,Apparel,1631.0,Parmar-Parekh,4.3,0,23.191000000000003,Based on your recent interest,396
+175,Apparel,1049.0,"Dutt, Ramakrishnan and Gour",3.2,30,30.5,Based on your recent interest,756
+178,Beauty,377.0,Chana and Sons,3.9,10,30.450000000000003,Based on your recent interest,756
+102,Groceries,176.0,"Kala, Pathak and Krishna",3.2,30,30.1,Based on your recent interest,756
+136,Electronics,42347.0,Agate-Sagar,4.7,30,28.85,Based on your recent interest,756
+183,Wellness,1353.0,"Dâ€™Alia, Golla and Bakshi",3.8,10,28.8,Based on your recent interest,756
+57,Electronics,64609.0,Bera-Radhakrishnan,4.1,30,102.529,Based on your recent interest,17
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,97.34700000000001,Best deal for you,17
+35,Groceries,1709.0,"Memon, Tata and Mukhopadhyay",5.0,30,32.609,Based on your recent interest,17
+59,Apparel,1213.0,Nagar-Sandal,3.6,20,30.033,Based on your recent interest,17
+177,Wellness,377.0,Patel Ltd,3.8,30,29.837,Based on your recent interest,17
+162,Beauty,435.0,"Sule, Murty and Palla",4.9,20,41.58,Based on your recent interest,352
+82,Apparel,1243.0,Suri Inc,4.5,30,40.6,Based on your recent interest,352
+1,Wellness,1420.0,Om PLC,3.5,30,38.8,Based on your recent interest,352
+125,Groceries,128.0,Manne Group,4.4,20,38.68,Based on your recent interest,352
+189,Electronics,34175.0,Patil Inc,3.9,0,37.08,Based on your recent interest,352
+196,Electronics,76771.0,Palla-Sama,3.7,20,101.111,Popular in your segment,184
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,94.34700000000001,Best deal for you,184
+39,Groceries,1773.0,Talwar-Baral,4.7,30,26.813,Based on your recent interest,184
+23,Wellness,995.0,Barad Inc,3.5,30,26.595000000000002,Based on your recent interest,184
+4,Apparel,1455.0,Bhalla-Apte,4.9,20,23.534999999999997,Based on your recent interest,184
+196,Electronics,76771.0,Palla-Sama,3.7,20,114.411,Based on your recent interest,139
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,97.34700000000001,Best deal for you,139
+19,Apparel,804.0,Jaggi-Swaminathan,3.9,20,31.684,Based on your recent interest,139
+117,Groceries,1690.0,Yohannan LLC,3.6,30,30.310000000000006,Based on your recent interest,139
+23,Wellness,995.0,Barad Inc,3.5,30,29.595000000000002,Based on your recent interest,139
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,48.540000000000006,Based on your recent interest,204
+144,Groceries,1937.0,"Kumar, Lalla and Pal",4.3,30,47.16,Based on your recent interest,204
+52,Electronics,8834.0,Loke Ltd,4.3,20,43.16,Based on your recent interest,204
+23,Wellness,995.0,Barad Inc,3.5,30,41.1,Best deal for you,204
+159,Beauty,48089.0,Ravel LLC,4.4,30,37.980000000000004,Based on your recent interest,204
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,104.647,Based on your recent interest,993
+196,Electronics,76771.0,Palla-Sama,3.7,20,101.111,Popular in your segment,993
+177,Wellness,377.0,Patel Ltd,3.8,30,26.837,Based on your recent interest,993
+182,Groceries,274.0,"Prabhu, Sethi and Prakash",4.5,30,26.074000000000005,Based on your recent interest,993
+75,Apparel,1442.0,Apte-Dora,4.9,30,25.722,Based on your recent interest,993
+58,Wellness,1527.0,Sane Ltd,3.4,30,37.38,Based on your recent interest,767
+162,Beauty,435.0,"Sule, Murty and Palla",4.9,20,36.28,Based on your recent interest,767
+112,Electronics,72847.0,Vala-Wali,3.5,30,34.2,Based on your recent interest,767
+94,Apparel,1852.0,"Raj, Walia and Khosla",3.0,20,33.5,Based on your recent interest,767
+110,Groceries,1710.0,"Wason, Garde and Palan",3.3,30,32.96,Based on your recent interest,767
+2,Beauty,1420.0,"Raj, Sachdev and Nair",3.8,30,35.260000000000005,Based on your recent interest,511
+83,Wellness,833.0,"Grewal, Iyengar and Zacharia",4.4,30,32.980000000000004,Based on your recent interest,511
+188,Apparel,340.0,"Baral, Banerjee and Balakrishnan",4.9,10,32.28,Based on your recent interest,511
+125,Groceries,128.0,Manne Group,4.4,20,30.380000000000003,Based on your recent interest,511
+38,Electronics,72197.0,Nath-Memon,3.4,30,29.98,Based on your recent interest,511
+35,Groceries,1709.0,"Memon, Tata and Mukhopadhyay",5.0,30,33.900000000000006,Based on your recent interest,889
+177,Wellness,377.0,Patel Ltd,3.8,30,32.86,Based on your recent interest,889
+91,Beauty,868.0,Zacharia LLC,3.0,30,31.900000000000002,Based on your recent interest,889
+164,Electronics,24209.0,Narayanan PLC,4.7,30,30.64,Based on your recent interest,889
+121,Apparel,816.0,Khurana-Dada,4.2,30,28.94,Based on your recent interest,889
+171,Electronics,74098.0,Edwin-Sarkar,4.0,30,98.298,Best deal for you,649
+21,Beauty,65478.0,"Kannan, Grover and Naidu",4.6,10,81.798,Popular in your segment,649
+35,Groceries,1709.0,"Memon, Tata and Mukhopadhyay",5.0,30,29.609,Based on your recent interest,649
+27,Wellness,1756.0,Verma-Kurian,3.8,20,27.616,Based on your recent interest,649
+75,Apparel,1442.0,Apte-Dora,4.9,30,25.722,Based on your recent interest,649
+165,Beauty,24209.0,"Balasubramanian, Balan and Panchal",4.8,30,39.260000000000005,Based on your recent interest,591
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,37.52,Based on your recent interest,591
+187,Groceries,1595.0,Sathe-Chawla,3.6,30,37.42,Based on your recent interest,591
+75,Apparel,1442.0,Apte-Dora,4.9,30,34.88,Based on your recent interest,591
+194,Wellness,669.0,Kumer Group,3.1,10,32.52,Based on your recent interest,591
+58,Wellness,1527.0,Sane Ltd,3.4,30,37.38,Based on your recent interest,858
+188,Apparel,340.0,"Baral, Banerjee and Balakrishnan",4.9,10,35.28,Based on your recent interest,858
+154,Beauty,1589.0,"Bhavsar, Sha and Ram",3.9,20,34.480000000000004,Based on your recent interest,858
+112,Electronics,72847.0,Vala-Wali,3.5,30,34.2,Based on your recent interest,858
+0,Groceries,748.0,"Patla, Swamy and Borde",4.4,20,33.78,Based on your recent interest,858
+170,Apparel,1162.0,Kamdar-Patel,5.0,30,47.900000000000006,Based on your recent interest,142
+146,Wellness,412.0,"Ranganathan, Narang and Bajaj",4.9,30,46.68,Based on your recent interest,142
+126,Electronics,40992.0,Bhat-Tara,3.9,30,45.28,Based on your recent interest,142
+29,Beauty,24908.0,"Rastogi, Sundaram and Majumdar",3.5,30,45.2,Based on your recent interest,142
+125,Groceries,128.0,Manne Group,4.4,20,41.78,Based on your recent interest,142
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,112.647,Based on your recent interest,135
+38,Electronics,72197.0,Nath-Memon,3.4,30,106.277,Best deal for you,135
+19,Apparel,804.0,Jaggi-Swaminathan,3.9,20,36.684000000000005,Based on your recent interest,135
+177,Wellness,377.0,Patel Ltd,3.8,30,34.837,Based on your recent interest,135
+144,Groceries,1937.0,"Kumar, Lalla and Pal",4.3,30,34.096999999999994,Based on your recent interest,135
+66,Wellness,1777.0,Sodhi Group,3.4,30,36.980000000000004,Based on your recent interest,650
+98,Groceries,288.0,Bhatia-Butala,4.1,30,36.72,Based on your recent interest,650
+136,Electronics,42347.0,Agate-Sagar,4.7,30,36.040000000000006,Based on your recent interest,650
+16,Beauty,990.0,Oommen-Prakash,4.6,10,35.22,Based on your recent interest,650
+148,Apparel,1436.0,Parikh Group,4.2,10,33.94,Based on your recent interest,650
+23,Wellness,995.0,Barad Inc,3.5,30,59.400000000000006,Based on your recent interest,188
+82,Apparel,1243.0,Suri Inc,4.5,30,53.6,Based on your recent interest,188
+39,Groceries,1773.0,Talwar-Baral,4.7,30,52.44,Based on your recent interest,188
+52,Electronics,8834.0,Loke Ltd,4.3,20,51.16,Based on your recent interest,188
+167,Beauty,24209.0,Palla PLC,4.2,30,50.24,Based on your recent interest,188
+171,Electronics,74098.0,Edwin-Sarkar,4.0,30,101.298,Best deal for you,489
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,97.34700000000001,Best deal for you,489
+27,Wellness,1756.0,Verma-Kurian,3.8,20,30.616,Based on your recent interest,489
+11,Apparel,158.0,"Deshpande, Kothari and Naidu",4.3,0,29.418,Based on your recent interest,489
+144,Groceries,1937.0,"Kumar, Lalla and Pal",4.3,30,29.097,Based on your recent interest,489
+196,Electronics,76771.0,Palla-Sama,3.7,20,111.411,Based on your recent interest,76
+21,Beauty,65478.0,"Kannan, Grover and Naidu",4.6,10,81.798,Popular in your segment,76
+117,Groceries,1690.0,Yohannan LLC,3.6,30,27.310000000000006,Based on your recent interest,76
+14,Wellness,462.0,Mammen Inc,4.3,30,25.822,Based on your recent interest,76
+151,Apparel,1443.0,Chatterjee Inc,3.6,10,24.663000000000004,Based on your recent interest,76
+82,Apparel,1243.0,Suri Inc,4.5,30,48.6,Based on your recent interest,698
+52,Electronics,8834.0,Loke Ltd,4.3,20,46.16,Based on your recent interest,698
+111,Groceries,269.0,"Thakur, Comar and Palla",4.1,30,45.72,Based on your recent interest,698
+165,Beauty,24209.0,"Balasubramanian, Balan and Panchal",4.8,30,45.46,Based on your recent interest,698
+23,Wellness,995.0,Barad Inc,3.5,30,44.1,Best deal for you,698
+40,Electronics,33631.0,Nagar Group,4.5,30,30.75,Based on your recent interest,165
+165,Beauty,24209.0,"Balasubramanian, Balan and Panchal",4.8,30,30.500000000000004,Based on your recent interest,165
+102,Groceries,176.0,"Kala, Pathak and Krishna",3.2,30,30.4,Based on your recent interest,165
+19,Apparel,804.0,Jaggi-Swaminathan,3.9,20,30.25,Based on your recent interest,165
+177,Wellness,377.0,Patel Ltd,3.8,30,29.2,Based on your recent interest,165
+38,Electronics,72197.0,Nath-Memon,3.4,30,106.277,Best deal for you,751
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,102.34700000000001,Best deal for you,751
+182,Groceries,274.0,"Prabhu, Sethi and Prakash",4.5,30,34.374,Based on your recent interest,751
+58,Wellness,1527.0,Sane Ltd,3.4,30,33.807,Based on your recent interest,751
+18,Apparel,721.0,"Bawa, Tripathi and Sheth",3.0,0,32.021,Based on your recent interest,751
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,31.35,Based on your recent interest,141
+162,Beauty,435.0,"Sule, Murty and Palla",4.9,20,30.75,Based on your recent interest,141
+102,Groceries,176.0,"Kala, Pathak and Krishna",3.2,30,30.1,Based on your recent interest,141
+121,Apparel,816.0,Khurana-Dada,4.2,30,29.8,Based on your recent interest,141
+176,Wellness,331.0,"Char, Kala and Bava",4.6,10,27.599999999999998,Based on your recent interest,141
+82,Apparel,1243.0,Suri Inc,4.5,30,48.6,Based on your recent interest,544
+52,Electronics,8834.0,Loke Ltd,4.3,20,46.46,Based on your recent interest,544
+167,Beauty,24209.0,Palla PLC,4.2,30,44.94,Based on your recent interest,544
+83,Wellness,833.0,"Grewal, Iyengar and Zacharia",4.4,30,44.18,Based on your recent interest,544
+173,Groceries,1684.0,Kumer-Rattan,3.9,20,40.88,Based on your recent interest,544
+196,Electronics,76771.0,Palla-Sama,3.7,20,104.111,Popular in your segment,50
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,97.34700000000001,Best deal for you,50
+117,Groceries,1690.0,Yohannan LLC,3.6,30,30.310000000000006,Based on your recent interest,50
+59,Apparel,1213.0,Nagar-Sandal,3.6,20,30.033,Based on your recent interest,50
+177,Wellness,377.0,Patel Ltd,3.8,30,29.837,Based on your recent interest,50
+165,Beauty,24209.0,"Balasubramanian, Balan and Panchal",4.8,30,30.500000000000004,Based on your recent interest,547
+58,Wellness,1527.0,Sane Ltd,3.4,30,30.2,Based on your recent interest,547
+124,Electronics,32856.0,Anand-Ramachandran,4.7,10,30.05,Based on your recent interest,547
+59,Apparel,1213.0,Nagar-Sandal,3.6,20,28.9,Based on your recent interest,547
+35,Groceries,1709.0,"Memon, Tata and Mukhopadhyay",5.0,30,28.6,Based on your recent interest,547
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,107.647,Based on your recent interest,652
+196,Electronics,76771.0,Palla-Sama,3.7,20,104.111,Popular in your segment,652
+117,Groceries,1690.0,Yohannan LLC,3.6,30,30.310000000000006,Based on your recent interest,652
+64,Wellness,1854.0,Prakash PLC,4.6,20,29.274,Based on your recent interest,652
+170,Apparel,1162.0,Kamdar-Patel,5.0,30,28.462,Based on your recent interest,652
+196,Electronics,76771.0,Palla-Sama,3.7,20,104.111,Popular in your segment,695
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,97.34700000000001,Best deal for you,695
+117,Groceries,1690.0,Yohannan LLC,3.6,30,30.310000000000006,Based on your recent interest,695
+59,Apparel,1213.0,Nagar-Sandal,3.6,20,30.033,Based on your recent interest,695
+64,Wellness,1854.0,Prakash PLC,4.6,20,29.274,Based on your recent interest,695
+1,Wellness,1420.0,Om PLC,3.5,30,30.650000000000002,Based on your recent interest,430
+144,Groceries,1937.0,"Kumar, Lalla and Pal",4.3,30,30.65,Based on your recent interest,430
+17,Beauty,990.0,Parekh-Nayar,3.8,20,29.4,Based on your recent interest,430
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,29.3,Based on your recent interest,430
+171,Electronics,74098.0,Edwin-Sarkar,4.0,30,28.9,Based on your recent interest,430
+112,Electronics,72847.0,Vala-Wali,3.5,30,108.647,Based on your recent interest,742
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,97.34700000000001,Best deal for you,742
+19,Apparel,804.0,Jaggi-Swaminathan,3.9,20,31.684,Based on your recent interest,742
+27,Wellness,1756.0,Verma-Kurian,3.8,20,30.616,Based on your recent interest,742
+93,Groceries,113.0,"Kalla, Ramakrishnan and Shere",5.0,20,28.013,Based on your recent interest,742
+100,Beauty,1603.0,"Date, Madan and Tata",4.7,30,51.040000000000006,Based on your recent interest,703
+115,Apparel,1099.0,Tank Inc,4.3,30,49.760000000000005,Based on your recent interest,703
+147,Wellness,774.0,Sarraf LLC,4.1,30,46.92,Based on your recent interest,703
+126,Electronics,40992.0,Bhat-Tara,3.9,30,45.28,Based on your recent interest,703
+173,Groceries,1684.0,Kumer-Rattan,3.9,20,40.88,Based on your recent interest,703
+171,Electronics,74098.0,Edwin-Sarkar,4.0,30,111.598,Based on your recent interest,111
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,107.947,Based on your recent interest,111
+86,Wellness,1328.0,Cheema-Shenoy,4.9,30,32.608000000000004,Based on your recent interest,111
+175,Apparel,1049.0,"Dutt, Ramakrishnan and Gour",3.2,30,29.989,Based on your recent interest,111
+160,Groceries,476.0,"Bhatti, Anand and Andra",4.0,30,29.976,Based on your recent interest,111
+121,Apparel,816.0,Khurana-Dada,4.2,30,55.44,Based on your recent interest,360
+52,Electronics,8834.0,Loke Ltd,4.3,20,51.16,Based on your recent interest,360
+86,Wellness,1328.0,Cheema-Shenoy,4.9,30,50.08,Based on your recent interest,360
+100,Beauty,1603.0,"Date, Madan and Tata",4.7,30,45.74,Best deal for you,360
+68,Groceries,939.0,Dixit Ltd,3.2,20,45.74,Based on your recent interest,360
+180,Groceries,1516.0,"Ramaswamy, Menon and Sinha",4.4,10,36.38,Based on your recent interest,663
+83,Wellness,833.0,"Grewal, Iyengar and Zacharia",4.4,30,35.980000000000004,Based on your recent interest,663
+55,Beauty,748.0,Ghosh-Mohanty,4.4,0,32.58,Based on your recent interest,663
+103,Electronics,44829.0,Gopal Group,4.8,20,32.16,Based on your recent interest,663
+195,Apparel,212.0,Tata and Sons,3.1,20,31.520000000000003,Based on your recent interest,663
+82,Apparel,1243.0,Suri Inc,4.5,30,48.6,Based on your recent interest,994
+135,Beauty,1870.0,Bains LLC,4.0,30,48.1,Based on your recent interest,994
+13,Wellness,657.0,"Peri, Kapur and Dara",3.3,30,46.760000000000005,Based on your recent interest,994
+164,Electronics,24209.0,Narayanan PLC,4.7,30,43.74,Based on your recent interest,994
+144,Groceries,1937.0,"Kumar, Lalla and Pal",4.3,30,39.86,Best deal for you,994
+40,Electronics,33631.0,Nagar Group,4.5,30,30.75,Based on your recent interest,509
+45,Groceries,506.0,Kalita LLC,4.8,20,29.1,Based on your recent interest,509
+140,Apparel,137.0,"Rege, Nadkarni and Contractor",4.4,20,28.9,Based on your recent interest,509
+159,Beauty,48089.0,Ravel LLC,4.4,30,28.7,Based on your recent interest,509
+168,Wellness,1316.0,Tara-Basak,4.0,0,28.7,Based on your recent interest,509
+121,Apparel,816.0,Khurana-Dada,4.2,30,55.14,Based on your recent interest,752
+39,Groceries,1773.0,Talwar-Baral,4.7,30,52.44,Based on your recent interest,752
+13,Wellness,657.0,"Peri, Kapur and Dara",3.3,30,51.760000000000005,Based on your recent interest,752
+119,Beauty,283.0,"Subramanian, Gour and Issac",3.4,20,49.38,Based on your recent interest,752
+40,Electronics,33631.0,Nagar Group,4.5,30,48.0,Based on your recent interest,752
+115,Apparel,1099.0,Tank Inc,4.3,30,44.56,Based on your recent interest,790
+176,Wellness,331.0,"Char, Kala and Bava",4.6,10,41.02,Based on your recent interest,790
+117,Groceries,1690.0,Yohannan LLC,3.6,30,40.82,Based on your recent interest,790
+84,Beauty,833.0,"Sibal, Mani and Seth",4.6,10,36.22,Based on your recent interest,790
+76,Electronics,62349.0,Chatterjee PLC,3.7,0,32.24,Based on your recent interest,790
+38,Electronics,72197.0,Nath-Memon,3.4,30,101.277,Best deal for you,309
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,97.34700000000001,Best deal for you,309
+19,Apparel,804.0,Jaggi-Swaminathan,3.9,20,31.684,Based on your recent interest,309
+27,Wellness,1756.0,Verma-Kurian,3.8,20,30.616,Based on your recent interest,309
+180,Groceries,1516.0,"Ramaswamy, Menon and Sinha",4.4,10,28.695999999999998,Based on your recent interest,309
+40,Electronics,33631.0,Nagar Group,4.5,30,31.05,Based on your recent interest,989
+125,Groceries,128.0,Manne Group,4.4,20,30.9,Based on your recent interest,989
+85,Wellness,922.0,Bawa Group,4.3,20,30.45,Based on your recent interest,989
+121,Apparel,816.0,Khurana-Dada,4.2,30,30.1,Based on your recent interest,989
+51,Beauty,860.0,Mohan-Zacharia,4.9,20,29.95,Based on your recent interest,989
+170,Apparel,1162.0,Kamdar-Patel,5.0,30,38.5,Based on your recent interest,400
+14,Wellness,462.0,Mammen Inc,4.3,30,36.760000000000005,Based on your recent interest,400
+71,Beauty,465.0,Sridhar-Setty,3.1,0,35.92,Based on your recent interest,400
+107,Groceries,1205.0,"Chaudhuri, Merchant and Loke",3.7,10,34.239999999999995,Based on your recent interest,400
+112,Electronics,72847.0,Vala-Wali,3.5,30,34.2,Based on your recent interest,400
+144,Groceries,1937.0,"Kumar, Lalla and Pal",4.3,30,50.16,Based on your recent interest,852
+170,Apparel,1162.0,Kamdar-Patel,5.0,30,47.900000000000006,Based on your recent interest,852
+146,Wellness,412.0,"Ranganathan, Narang and Bajaj",4.9,30,46.68,Based on your recent interest,852
+49,Electronics,6504.0,Boase Inc,4.4,30,42.88,Based on your recent interest,852
+159,Beauty,48089.0,Ravel LLC,4.4,30,40.980000000000004,Based on your recent interest,852
+75,Apparel,1442.0,Apte-Dora,4.9,30,48.68,Based on your recent interest,957
+58,Wellness,1527.0,Sane Ltd,3.4,30,48.38,Based on your recent interest,957
+111,Groceries,269.0,"Thakur, Comar and Palla",4.1,30,45.72,Based on your recent interest,957
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,43.0,Based on your recent interest,957
+40,Electronics,33631.0,Nagar Group,4.5,30,43.0,Based on your recent interest,957
+196,Electronics,76771.0,Palla-Sama,3.7,20,104.111,Popular in your segment,720
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,97.34700000000001,Best deal for you,720
+62,Wellness,851.0,"Kibe, Baral and Mani",3.0,30,28.551000000000002,Based on your recent interest,720
+173,Groceries,1684.0,Kumer-Rattan,3.9,20,27.764,Based on your recent interest,720
+61,Apparel,1020.0,Palan LLC,4.6,20,26.44,Based on your recent interest,720
+196,Electronics,76771.0,Palla-Sama,3.7,20,109.111,Popular in your segment,954
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,102.34700000000001,Best deal for you,954
+177,Wellness,377.0,Patel Ltd,3.8,30,34.837,Based on your recent interest,954
+39,Groceries,1773.0,Talwar-Baral,4.7,30,34.813,Based on your recent interest,954
+11,Apparel,158.0,"Deshpande, Kothari and Naidu",4.3,0,34.418,Based on your recent interest,954
+35,Groceries,1709.0,"Memon, Tata and Mukhopadhyay",5.0,30,33.900000000000006,Based on your recent interest,657
+14,Wellness,462.0,Mammen Inc,4.3,30,33.760000000000005,Based on your recent interest,657
+75,Apparel,1442.0,Apte-Dora,4.9,30,31.880000000000003,Based on your recent interest,657
+25,Beauty,995.0,Choudhury PLC,4.0,10,29.3,Based on your recent interest,657
+103,Electronics,44829.0,Gopal Group,4.8,20,28.860000000000003,Based on your recent interest,657
+100,Beauty,1603.0,"Date, Madan and Tata",4.7,30,51.040000000000006,Based on your recent interest,398
+175,Apparel,1049.0,"Dutt, Ramakrishnan and Gour",3.2,30,48.74,Based on your recent interest,398
+86,Wellness,1328.0,Cheema-Shenoy,4.9,30,45.08,Based on your recent interest,398
+35,Groceries,1709.0,"Memon, Tata and Mukhopadhyay",5.0,30,44.7,Based on your recent interest,398
+38,Electronics,72197.0,Nath-Memon,3.4,30,39.58,Based on your recent interest,398
+2,Beauty,1420.0,"Raj, Sachdev and Nair",3.8,30,38.260000000000005,Based on your recent interest,937
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,37.52,Based on your recent interest,937
+14,Wellness,462.0,Mammen Inc,4.3,30,36.760000000000005,Based on your recent interest,937
+61,Apparel,1020.0,Palan LLC,4.6,20,36.620000000000005,Based on your recent interest,937
+97,Groceries,1921.0,"Goda, Gopal and Doctor",3.5,10,32.2,Based on your recent interest,937
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,51.540000000000006,Based on your recent interest,439
+110,Groceries,1710.0,"Wason, Garde and Palan",3.3,30,48.760000000000005,Based on your recent interest,439
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,46.92,Based on your recent interest,439
+177,Wellness,377.0,Patel Ltd,3.8,30,44.86,Based on your recent interest,439
+100,Beauty,1603.0,"Date, Madan and Tata",4.7,30,40.74,Best deal for you,439
+196,Electronics,76771.0,Palla-Sama,3.7,20,104.111,Popular in your segment,612
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,97.34700000000001,Best deal for you,612
+110,Groceries,1710.0,"Wason, Garde and Palan",3.3,30,28.97,Based on your recent interest,612
+199,Wellness,1272.0,Patel-Thakkar,4.9,10,28.951999999999998,Based on your recent interest,612
+170,Apparel,1162.0,Kamdar-Patel,5.0,30,28.462,Based on your recent interest,612
+165,Beauty,24209.0,"Balasubramanian, Balan and Panchal",4.8,30,39.260000000000005,Based on your recent interest,744
+111,Groceries,269.0,"Thakur, Comar and Palla",4.1,30,37.92,Based on your recent interest,744
+101,Wellness,1778.0,"Vig, Malhotra and Shan",4.2,0,36.040000000000006,Based on your recent interest,744
+116,Apparel,1249.0,"Mannan, Bhavsar and Khosla",3.5,10,34.2,Based on your recent interest,744
+28,Electronics,24908.0,Wason PLC,3.6,10,32.22,Based on your recent interest,744
+23,Wellness,995.0,Barad Inc,3.5,30,54.400000000000006,Based on your recent interest,736
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,51.540000000000006,Based on your recent interest,736
+100,Beauty,1603.0,"Date, Madan and Tata",4.7,30,51.040000000000006,Based on your recent interest,736
+111,Groceries,269.0,"Thakur, Comar and Palla",4.1,30,45.72,Based on your recent interest,736
+20,Electronics,65478.0,"Bhatia, Nagarajan and Hayer",3.6,30,42.82,Based on your recent interest,736
+13,Wellness,657.0,"Peri, Kapur and Dara",3.3,30,52.06,Based on your recent interest,328
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,51.92,Based on your recent interest,328
+98,Groceries,288.0,Bhatia-Butala,4.1,30,51.52,Based on your recent interest,328
+162,Beauty,435.0,"Sule, Murty and Palla",4.9,20,47.68,Based on your recent interest,328
+19,Apparel,804.0,Jaggi-Swaminathan,3.9,20,46.68,Based on your recent interest,328
+48,Wellness,345.0,"Mohanty, Sathe and Grewal",4.6,30,52.620000000000005,Based on your recent interest,624
+121,Apparel,816.0,Khurana-Dada,4.2,30,50.14,Based on your recent interest,624
+98,Groceries,288.0,Bhatia-Butala,4.1,30,46.82,Based on your recent interest,624
+136,Electronics,42347.0,Agate-Sagar,4.7,30,43.44,Based on your recent interest,624
+100,Beauty,1603.0,"Date, Madan and Tata",4.7,30,40.74,Best deal for you,624
+171,Electronics,74098.0,Edwin-Sarkar,4.0,30,101.298,Best deal for you,386
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,97.34700000000001,Best deal for you,386
+27,Wellness,1756.0,Verma-Kurian,3.8,20,30.616,Based on your recent interest,386
+155,Groceries,411.0,Tank-Brar,3.2,10,30.151000000000003,Based on your recent interest,386
+82,Apparel,1243.0,Suri Inc,4.5,30,26.843,Based on your recent interest,386
+83,Wellness,833.0,"Grewal, Iyengar and Zacharia",4.4,30,30.7,Based on your recent interest,46
+19,Apparel,804.0,Jaggi-Swaminathan,3.9,20,30.25,Based on your recent interest,46
+106,Beauty,1631.0,Sethi Group,4.0,20,29.5,Based on your recent interest,46
+98,Groceries,288.0,Bhatia-Butala,4.1,30,28.95,Based on your recent interest,46
+112,Electronics,72847.0,Vala-Wali,3.5,30,27.85,Based on your recent interest,46
+121,Apparel,816.0,Khurana-Dada,4.2,30,50.14,Based on your recent interest,147
+135,Beauty,1870.0,Bains LLC,4.0,30,48.1,Based on your recent interest,147
+182,Groceries,274.0,"Prabhu, Sethi and Prakash",4.5,30,47.400000000000006,Based on your recent interest,147
+133,Electronics,9729.0,Pillai Inc,4.3,30,44.16,Based on your recent interest,147
+23,Wellness,995.0,Barad Inc,3.5,30,44.1,Best deal for you,147
+165,Beauty,24209.0,"Balasubramanian, Balan and Panchal",4.8,30,36.260000000000005,Based on your recent interest,507
+170,Apparel,1162.0,Kamdar-Patel,5.0,30,35.5,Based on your recent interest,507
+125,Groceries,128.0,Manne Group,4.4,20,30.380000000000003,Based on your recent interest,507
+85,Wellness,922.0,Bawa Group,4.3,20,25.46,Based on your recent interest,507
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,24.220000000000002,Best deal for you,507
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,56.540000000000006,Based on your recent interest,785
+29,Beauty,24908.0,"Rastogi, Sundaram and Majumdar",3.5,30,50.2,Based on your recent interest,785
+177,Wellness,377.0,Patel Ltd,3.8,30,50.16,Based on your recent interest,785
+35,Groceries,1709.0,"Memon, Tata and Mukhopadhyay",5.0,30,49.7,Based on your recent interest,785
+136,Electronics,42347.0,Agate-Sagar,4.7,30,48.44,Based on your recent interest,785
+171,Electronics,74098.0,Edwin-Sarkar,4.0,30,108.598,Based on your recent interest,696
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,104.647,Based on your recent interest,696
+141,Groceries,1380.0,"Garg, Garde and Thaman",3.5,20,25.98,Based on your recent interest,696
+75,Apparel,1442.0,Apte-Dora,4.9,30,25.722,Based on your recent interest,696
+58,Wellness,1527.0,Sane Ltd,3.4,30,25.507,Based on your recent interest,696
+48,Wellness,345.0,"Mohanty, Sathe and Grewal",4.6,30,49.620000000000005,Based on your recent interest,369
+121,Apparel,816.0,Khurana-Dada,4.2,30,47.14,Based on your recent interest,369
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,43.92,Based on your recent interest,369
+98,Groceries,288.0,Bhatia-Butala,4.1,30,43.52,Based on your recent interest,369
+51,Beauty,860.0,Mohan-Zacharia,4.9,20,40.08,Based on your recent interest,369
+125,Groceries,128.0,Manne Group,4.4,20,31.5,Strong interest based on multiple views,453
+72,Beauty,465.0,Chander Inc,4.1,30,30.55,Based on your recent interest,453
+124,Electronics,32856.0,Anand-Ramachandran,4.7,10,30.05,Based on your recent interest,453
+121,Apparel,816.0,Khurana-Dada,4.2,30,29.8,Based on your recent interest,453
+183,Wellness,1353.0,"Dâ€™Alia, Golla and Bakshi",3.8,10,28.8,Based on your recent interest,453
+112,Electronics,72847.0,Vala-Wali,3.5,30,34.2,Based on your recent interest,965
+23,Wellness,995.0,Barad Inc,3.5,30,34.2,Based on your recent interest,965
+148,Apparel,1436.0,Parikh Group,4.2,10,33.94,Based on your recent interest,965
+21,Beauty,65478.0,"Kannan, Grover and Naidu",4.6,10,32.42,Based on your recent interest,965
+78,Groceries,1183.0,"Sagar, Dutta and Edwin",4.5,0,32.2,Based on your recent interest,965
+144,Groceries,1937.0,"Kumar, Lalla and Pal",4.3,30,50.16,Based on your recent interest,905
+82,Apparel,1243.0,Suri Inc,4.5,30,48.6,Based on your recent interest,905
+119,Beauty,283.0,"Subramanian, Gour and Issac",3.4,20,44.68000000000001,Based on your recent interest,905
+23,Wellness,995.0,Barad Inc,3.5,30,44.1,Best deal for you,905
+6,Electronics,9361.0,Jhaveri-Goel,4.1,30,36.620000000000005,Best deal for you,905
+165,Beauty,24209.0,"Balasubramanian, Balan and Panchal",4.8,30,36.260000000000005,Based on your recent interest,673
+129,Wellness,1594.0,"Kapadia, Swamy and Merchant",4.4,10,33.78,Based on your recent interest,673
+134,Groceries,1870.0,Chahal and Sons,3.0,0,31.200000000000003,Based on your recent interest,673
+148,Apparel,1436.0,Parikh Group,4.2,10,30.94,Based on your recent interest,673
+38,Electronics,72197.0,Nath-Memon,3.4,30,29.98,Based on your recent interest,673
+2,Beauty,1420.0,"Raj, Sachdev and Nair",3.8,30,38.260000000000005,Based on your recent interest,209
+98,Groceries,288.0,Bhatia-Butala,4.1,30,37.02,Based on your recent interest,209
+62,Wellness,851.0,"Kibe, Baral and Mani",3.0,30,34.900000000000006,Based on your recent interest,209
+54,Apparel,748.0,Lal Inc,4.6,20,34.120000000000005,Based on your recent interest,209
+158,Electronics,48089.0,"Dewan, Grewal and Soman",4.4,0,29.78,Based on your recent interest,209
+136,Electronics,42347.0,Agate-Sagar,4.7,30,36.040000000000006,Based on your recent interest,40
+177,Wellness,377.0,Patel Ltd,3.8,30,35.86,Based on your recent interest,40
+36,Beauty,1709.0,"Ben, Devi and Bava",3.2,20,35.14,Based on your recent interest,40
+127,Groceries,528.0,Guha PLC,3.4,10,34.18,Based on your recent interest,40
+19,Apparel,804.0,Jaggi-Swaminathan,3.9,20,34.08,Based on your recent interest,40
+86,Wellness,1328.0,Cheema-Shenoy,4.9,30,31.35,Based on your recent interest,320
+187,Groceries,1595.0,Sathe-Chawla,3.6,30,29.9,Based on your recent interest,320
+100,Beauty,1603.0,"Date, Madan and Tata",4.7,30,28.85,Based on your recent interest,320
+196,Electronics,76771.0,Palla-Sama,3.7,20,28.55,Based on your recent interest,320
+3,Apparel,1849.0,"Kanda, Oommen and Chandran",3.3,0,26.349999999999998,Based on your recent interest,320
+42,Electronics,69306.0,Joshi-Sant,3.9,10,98.986,Based on your recent interest,445
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,94.34700000000001,Best deal for you,445
+39,Groceries,1773.0,Talwar-Baral,4.7,30,26.813,Based on your recent interest,445
+63,Wellness,876.0,"Varty, Deep and Prashad",4.8,10,25.136000000000003,Based on your recent interest,445
+105,Apparel,1631.0,Parmar-Parekh,4.3,0,23.191000000000003,Based on your recent interest,445
+23,Wellness,995.0,Barad Inc,3.5,30,59.400000000000006,Based on your recent interest,960
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,56.540000000000006,Based on your recent interest,960
+144,Groceries,1937.0,"Kumar, Lalla and Pal",4.3,30,55.16,Based on your recent interest,960
+136,Electronics,42347.0,Agate-Sagar,4.7,30,48.44,Based on your recent interest,960
+192,Beauty,34175.0,"Morar, Raman and Ravi",3.9,30,45.88,Based on your recent interest,960
+113,Beauty,72847.0,"Brahmbhatt, Manda and Purohit",4.5,30,107.647,Based on your recent interest,393
+44,Electronics,73034.0,Aggarwal-Singh,3.5,0,104.23400000000001,Based on your recent interest,393
+35,Groceries,1709.0,"Memon, Tata and Mukhopadhyay",5.0,30,32.609,Based on your recent interest,393
+147,Wellness,774.0,Sarraf LLC,4.1,30,28.694000000000003,Based on your recent interest,393
+148,Apparel,1436.0,Parikh Group,4.2,10,28.476,Based on your recent interest,393
+170,Apparel,1162.0,Kamdar-Patel,5.0,30,35.5,Based on your recent interest,26
+2,Beauty,1420.0,"Raj, Sachdev and Nair",3.8,30,35.260000000000005,Based on your recent interest,26
+14,Wellness,462.0,Mammen Inc,4.3,30,33.760000000000005,Based on your recent interest,26
+136,Electronics,42347.0,Agate-Sagar,4.7,30,33.040000000000006,Based on your recent interest,26
+117,Groceries,1690.0,Yohannan LLC,3.6,30,32.82,Based on your recent interest,26
+144,Groceries,1937.0,"Kumar, Lalla and Pal",4.3,30,30.65,Based on your recent interest,998
+48,Wellness,345.0,"Mohanty, Sathe and Grewal",4.6,30,30.3,Based on your recent interest,998
+164,Electronics,24209.0,Narayanan PLC,4.7,30,29.650000000000002,Based on your recent interest,998
+188,Apparel,340.0,"Baral, Banerjee and Balakrishnan",4.9,10,29.35,Based on your recent interest,998
+88,Beauty,1226.0,"Chaudhry, Virk and Jhaveri",4.7,30,28.45,Based on your recent interest,998
+179,Apparel,1907.0,"Karpe, Konda and Agrawal",3.2,30,51.540000000000006,Based on your recent interest,741
+39,Groceries,1773.0,Talwar-Baral,4.7,30,47.44,Based on your recent interest,741
+147,Wellness,774.0,Sarraf LLC,4.1,30,46.92,Based on your recent interest,741
+100,Beauty,1603.0,"Date, Madan and Tata",4.7,30,40.74,Best deal for you,741
+112,Electronics,72847.0,Vala-Wali,3.5,30,39.2,Based on your recent interest,741
+111,Groceries,269.0,"Thakur, Comar and Palla",4.1,30,34.92,Based on your recent interest,57
+15,Wellness,990.0,Bassi-Nagar,4.8,20,32.06,Based on your recent interest,57
+91,Beauty,868.0,Zacharia LLC,3.0,30,31.900000000000002,Based on your recent interest,57
+114,Apparel,1660.0,"Das, Chana and Borah",4.0,10,30.900000000000002,Based on your recent interest,57
+52,Electronics,8834.0,Loke Ltd,4.3,20,30.360000000000003,Based on your recent interest,57
+66,Wellness,1777.0,Sodhi Group,3.4,30,33.980000000000004,Based on your recent interest,499
+17,Beauty,990.0,Parekh-Nayar,3.8,20,33.86,Based on your recent interest,499
+144,Groceries,1937.0,"Kumar, Lalla and Pal",4.3,30,32.16,Based on your recent interest,499
+40,Electronics,33631.0,Nagar Group,4.5,30,31.400000000000002,Based on your recent interest,499
+46,Apparel,331.0,"Nanda, Sampath and Cheema",4.3,10,30.16,Based on your recent interest,499
+175,Apparel,1049.0,"Dutt, Ramakrishnan and Gour",3.2,30,30.5,Based on your recent interest,835
+126,Electronics,40992.0,Bhat-Tara,3.9,30,30.450000000000003,Based on your recent interest,835
+178,Beauty,377.0,Chana and Sons,3.9,10,30.450000000000003,Based on your recent interest,835
+110,Groceries,1710.0,"Wason, Garde and Palan",3.3,30,30.45,Based on your recent interest,835
+23,Wellness,995.0,Barad Inc,3.5,30,29.85,Based on your recent interest,835
