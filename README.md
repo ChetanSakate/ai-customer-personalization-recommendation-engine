@@ -1,5 +1,8 @@
 # 🤖 AI-Powered Customer Personalization & Recommendation Engine
 
+🚀 Built an AI-powered recommendation system that simulates a 10% increase in conversion rate using customer segmentation and behavioral intelligence.
+
+
 ## 📌 Overview
 
 This project builds an end-to-end customer personalization system designed to improve conversion rates and revenue through intelligent recommendations.
