@@ -114,8 +114,7 @@ To estimate real-world value:
 ## 📊 Dashboard (Tableau)
 
 ### Dashboard 1: Customer Segmentation & Behavior
-[Dashboard_01.pdf](https://github.com/user-attachments/files/27286251/Dashboard_01.pdf)
-
+<img width="1755" height="1241" alt="Dashboard_01_page-0001" src="https://github.com/user-attachments/assets/56bfaba3-12fc-4d85-b6cc-188f6b7181c2" />
 
 * Segment distribution
 * Revenue by segment
@@ -123,8 +122,7 @@ To estimate real-world value:
 * Recency vs spend insights
 
 ### Dashboard 2: Recommendation Engine Insights
-[DB_02.pdf](https://github.com/user-attachments/files/27286262/DB_02.pdf)
-
+<img width="1755" height="1240" alt="DB_02_page-0001" src="https://github.com/user-attachments/assets/fc3ab08d-4606-4fd6-87bc-178a639bf085" />
 
 * Category distribution of recommendations
 * Price band analysis
