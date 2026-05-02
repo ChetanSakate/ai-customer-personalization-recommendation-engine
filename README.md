@@ -36,6 +36,20 @@ A hybrid recommendation engine that integrates:
 
 ---
 
+## 🧠 System Architecture
+
+MySQL (Raw Data)
+   ↓
+Python (Feature Engineering + KMeans Clustering)
+   ↓
+Recommendation Engine (Scoring + Personalization)
+   ↓
+Tableau Dashboard (Business Insights)
+
+<img width="1859" height="900" alt="image" src="https://github.com/user-attachments/assets/ad39082f-f571-4029-ab2e-ca9e63932e89" />
+
+---
+
 ## 🧩 Data Sources
 
 * Customer Transactions (purchase history, recency)
@@ -55,19 +69,6 @@ A hybrid recommendation engine that integrates:
 
 ## 🧠 Methodology
 
-## 🧠 System Architecture
-
-MySQL (Raw Data)
-   ↓
-Python (Feature Engineering + KMeans Clustering)
-   ↓
-Recommendation Engine (Scoring + Personalization)
-   ↓
-Tableau Dashboard (Business Insights)
-
-<img width="1859" height="900" alt="image" src="https://github.com/user-attachments/assets/ad39082f-f571-4029-ab2e-ca9e63932e89" />
-
-
 ### 1. Data Engineering
 
 * Extracted and joined data from MySQL
@@ -86,10 +87,7 @@ Tableau Dashboard (Business Insights)
 * Applied **K-Means clustering**
 * Identified key segments:
 
-  * High Value Customers
-  * Loyal Customers
-  * Deal-Seeking Browsers
-  * Dormant Customers
+<img width="610" height="274" alt="image" src="https://github.com/user-attachments/assets/a68ab981-1f55-45a3-8dbf-492d6ad8de27" />
 
 ---
 
@@ -102,6 +100,13 @@ Built a scoring-based recommendation system using:
 * Product rating & discount
 * Segment-specific tuning
 * Recency-based boost
+* 
+##  Sample Recommendation Output
+
+<img width="1117" height="314" alt="image" src="https://github.com/user-attachments/assets/56ce681a-bee7-4be1-b2b8-b3e2eaab14a4" />
+
+---
+
 
 #### Key Features:
 
@@ -128,10 +133,6 @@ To estimate real-world value:
   * Baseline revenue 34.28 Cr & Projected revenue 41.91 Cr, Potential Impact +15.50%
   * Segment-wise impact contribution
 
-## 🎯 Sample Recommendation Output
-
-<img width="1117" height="314" alt="image" src="https://github.com/user-attachments/assets/56ce681a-bee7-4be1-b2b8-b3e2eaab14a4" />
-
 ---
 
 ## 📊 Dashboard Preview
@@ -146,7 +147,6 @@ To estimate real-world value:
 
 ### Dashboard 2: Recommendation Engine Insights
 <img width="1755" height="1240" alt="DB_02_page-0001" src="https://github.com/user-attachments/assets/299bd296-9e63-424b-a951-c76bd1de9131" />
-
 
 * Category distribution of recommendations
 * Price band analysis
@@ -166,22 +166,22 @@ To estimate real-world value:
 
 ## 💰 Business Impact
 
-- 📈 Conversion Rate: +10% (simulated uplift)
-- 🛒 Average Order Value: +5%
-- 💵 Estimated Revenue Increase: ₹1,00,000+ / month
+📈 Conversion Rate: +10%
+🛒 Average Order Value: +5%
+💵 Revenue Growth: ₹34.28 Cr → ₹41.91 Cr
+🚀 Total Uplift: +15.5%
 
-👉 Insight:
-High-value customers contributed ~45% of revenue, while deal-seekers showed high engagement but lower conversion — indicating discount-driven behavior.
+👉 Insight: Personalisation significantly improves both purchase likelihood and spend per user
 
 ---
 
 ## 🤔 Why This Matters
 
-Personalized recommendation systems are critical in fintech and e-commerce to:
+In fintech and digital commerce:
 
-- Increase customer retention
-- Improve transaction frequency
-- Maximize revenue per user
+Personalization = Revenue engine
+Better targeting = Higher retention
+Behavioral insights = Smarter decision-making
 
 ---
 
