@@ -1,6 +1,8 @@
 # 🤖 AI-Powered Customer Personalization & Recommendation Engine
 
-🚀 Built an AI-powered recommendation system that simulates a 10% increase in conversion rate using customer segmentation and behavioral intelligence.
+🚀 Simulated a +10% increase in conversion rate and +5% uplift in AOV using customer segmentation and behavioral personalization.
+
+Built using Python, MySQL, and Tableau to replicate real-world fintech recommendation systems.
 
 
 ## 📌 Overview
@@ -53,7 +55,15 @@ A hybrid recommendation engine that integrates:
 
 ## 🧠 Methodology
 
-### Architecture
+## 🧠 System Architecture
+
+MySQL (Raw Data)
+   ↓
+Python (Feature Engineering + KMeans Clustering)
+   ↓
+Recommendation Engine (Scoring + Personalization)
+   ↓
+Tableau Dashboard (Business Insights)
 
 <img width="1859" height="900" alt="image" src="https://github.com/user-attachments/assets/ad39082f-f571-4029-ab2e-ca9e63932e89" />
 
@@ -118,13 +128,13 @@ To estimate real-world value:
   * Baseline revenue 34.28 Cr & Projected revenue 41.91 Cr, Potential Impact +15.50%
   * Segment-wise impact contribution
 
-### Recommendations Output
+## 🎯 Sample Recommendation Output
 
 <img width="1117" height="314" alt="image" src="https://github.com/user-attachments/assets/56ce681a-bee7-4be1-b2b8-b3e2eaab14a4" />
 
 ---
 
-## 📊 Dashboard (Tableau)
+## 📊 Dashboard Preview
 
 ### Dashboard 1: Customer Segmentation & Behavior
 <img width="1755" height="1241" alt="Dashboard_01_page-0001" src="https://github.com/user-attachments/assets/56bfaba3-12fc-4d85-b6cc-188f6b7181c2" />
@@ -154,13 +164,24 @@ To estimate real-world value:
 
 ---
 
-## 🚀 Business Impact
+## 💰 Business Impact
 
-The system demonstrates potential to:
+- 📈 Conversion Rate: +10% (simulated uplift)
+- 🛒 Average Order Value: +5%
+- 💵 Estimated Revenue Increase: ₹1,00,000+ / month
 
-* Increase conversion rates
-* Improve average order value
-* Enable targeted marketing strategies
+👉 Insight:
+High-value customers contributed ~45% of revenue, while deal-seekers showed high engagement but lower conversion — indicating discount-driven behavior.
+
+---
+
+## 🤔 Why This Matters
+
+Personalized recommendation systems are critical in fintech and e-commerce to:
+
+- Increase customer retention
+- Improve transaction frequency
+- Maximize revenue per user
 
 ---
 
