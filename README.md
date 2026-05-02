@@ -53,6 +53,11 @@ A hybrid recommendation engine that integrates:
 
 ## 🧠 Methodology
 
+### Architecture
+
+<img width="1859" height="900" alt="image" src="https://github.com/user-attachments/assets/ad39082f-f571-4029-ab2e-ca9e63932e89" />
+
+
 ### 1. Data Engineering
 
 * Extracted and joined data from MySQL
@@ -110,7 +115,12 @@ To estimate real-world value:
 * Calculated:
 
   * Baseline vs projected revenue
+  * Baseline revenue 34.28 Cr & Projected revenue 41.91 Cr, Potential Impact +15.50%
   * Segment-wise impact contribution
+
+### Recommendations Output
+
+<img width="1117" height="314" alt="image" src="https://github.com/user-attachments/assets/56ce681a-bee7-4be1-b2b8-b3e2eaab14a4" />
 
 ---
 
@@ -125,7 +135,8 @@ To estimate real-world value:
 * Recency vs spend insights
 
 ### Dashboard 2: Recommendation Engine Insights
-<img width="1755" height="1240" alt="DB_02_page-0001" src="https://github.com/user-attachments/assets/fc3ab08d-4606-4fd6-87bc-178a639bf085" />
+<img width="1755" height="1240" alt="DB_02_page-0001" src="https://github.com/user-attachments/assets/299bd296-9e63-424b-a951-c76bd1de9131" />
+
 
 * Category distribution of recommendations
 * Price band analysis
