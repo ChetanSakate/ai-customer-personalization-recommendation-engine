@@ -167,8 +167,11 @@ To estimate real-world value:
 ## 💰 Business Impact
 
 📈 Conversion Rate: +10%
+
 🛒 Average Order Value: +5%
+
 💵 Revenue Growth: ₹34.28 Cr → ₹41.91 Cr
+
 🚀 Total Uplift: +15.5%
 
 👉 Insight: Personalisation significantly improves both purchase likelihood and spend per user
